@@ -1,0 +1,17 @@
+<p a><p b>
+<style>
+*{
+background:#998235;
+border-radius:50%;
+aspect-ratio:1
+}
+[a]{
+width:180;
+background:#FCBE5C;
+margin:60 0 0 102
+}
+[b]{
+width:60;
+margin:-120 0 0 172;
+box-shadow:-12q 0 0 21q #FCBE5C,
+0 0 0 42q #0B2429
