@@ -1,0 +1,16 @@
+<body bgcolor=#191919><p a><p b>
+<style>
+p{
+border-radius:21q;
+width:40;
+height:300}
+[a]{
+background:#FE5F55;
+margin:-178 0 0 172;
+box-shadow:0 360q #FE5F55
+}
+[b]{
+rotate:90deg;
+background:#A64942;
+margin:-130 0 0 2;
+box-shadow:0 -360q #A64942
