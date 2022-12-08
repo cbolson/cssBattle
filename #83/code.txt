@@ -1,0 +1,21 @@
+<p a><p b><p c>
+<style>
+*{background:#243D83}
+p{aspect-ratio:1;rotate:45deg;}
+[a],[c]{border-radius:50%;}
+[a]{
+background:#6592CF;
+width:100;
+margin:57 0 0 100;
+color:6592CF;
+box-shadow:64q 64q,64q -64q,128q 0q
+}
+[b]{
+width:120;
+margin:-68 0 0 132
+}
+[c]{
+width:60;
+background:#EEB850;
+margin:-89 0 0 162 
+}

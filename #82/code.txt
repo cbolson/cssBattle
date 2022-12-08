@@ -1,0 +1,15 @@
+<p b>
+<style>
+*{background:#F3AC3C}
+*:before{
+rotate:225deg;
+width:30;
+height:30;
+background:#1A4341;
+margin:135 0 0 175;
+color:F3AC3C;
+box-shadow:
+0 69q,
+69q 0,
+0 0 0 37q,
+0 0 0 69q #998235
