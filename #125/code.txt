@@ -1,0 +1,20 @@
+<p c>
+<p l>
+<p l r>
+<p a y>
+<p b y>
+<p d y>
+<p e>
+<p o>
+<style>
+*{background:#EFF2F1}
+p{background:#1C1C1C}
+[c]{width:90;height:90;border-radius:0 48q 48q 0;margin:60 0 0 162}
+[o]{background:#EFF2F1;width:50;height:60;border-radius:0 30q 30q 0;margin:-165 0 0 162}
+[l]{width:40;height:180;margin:-90 0 0 122}
+[r]{margin:-100 0 0 195;height:100;width:46;transform:skew(30deg)}
+[y]{clip-path: polygon(0 74%,100%40%,100%100%,0%100%);height:34;width:20}
+[a]{margin:-180 0 0 102;scale:1 -1}
+[b]{margin:112 0 0 102}
+[d]{margin:-34 0 0 162;scale:-1 1}
+[e]{margin:-28 0 0 242;height:28;width:40;clip-path: polygon(0 0, 100% 76%, 100% 100%, 0% 100%)

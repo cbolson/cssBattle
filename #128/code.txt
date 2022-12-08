@@ -1,0 +1,24 @@
+<body bgcolor=998235>
+<p a>
+<p b>
+<p>
+<style>
+p{
+width:40;
+height:82%;
+background:#0B2429;
+position:absolute;
+top:54;
+left:135
+}
+[a]{
+top:-32;
+left:225
+}
+[b]{
+left:179;
+height:160;
+width:42;
+background:#FCBE5C;
+transform:skew(20deg);
+}

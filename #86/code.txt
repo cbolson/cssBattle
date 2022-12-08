@@ -1,0 +1,15 @@
+<p a><p b>
+<style>*{background:#191919}
+[a]{
+width:100;
+height:150;
+background:#4F77FF;
+border-radius:52q 52q 0 0;
+margin:75 0 0 142
+}
+[b]{
+width:80;
+height:20;
+margin:-20 0 0 162;
+color:191919;
+box-shadow:22q -26q,40px -50q,62q -76q
