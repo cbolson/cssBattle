@@ -1,0 +1,21 @@
+<img>
+<img>
+<style>
+*{
+    background:#E38F66
+}
+img{
+    padding:60 30;
+    border-radius:1in;
+    color:FFFBDA;
+    margin:0-357 0 207;
+    box-shadow:
+        45px 50q 0-5vh,
+        -45px 50q 0-5vh,
+        0 76q #E38F66,
+        0-9q 0 33q #E38F66,
+        0 76q 0 32q
+}
+*+img{
+    color:62306D
+}

@@ -1,0 +1,22 @@
+<p>
+<p>
+<style>
+*{
+    background:#4F77FF
+}
+p{
+    border:25px solid;
+    margin:70 72 -10;
+    border-radius:11q;
+    color:FFF;
+    box-shadow:
+        22q -22q #1038BF,
+        11q 30px 0 -11q #4F77FF,
+        -11q 40px 0 -11q,
+        0 22q,
+        0 74q;
+        clip-path:pat\68('m 0 -20 h 260 V 80 H 0')
+ }
+*+p{
+    rotate:180deg
+}

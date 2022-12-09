@@ -1,0 +1,27 @@
+<p c><p a><p b>
+<style>
+*{background:#000}
+p{
+width:300;
+height:20;
+border-radius:10q;
+background:#AF067C;
+margin:-70 0 0 42
+}
+[a]{
+box-shadow:0 106q#AF067C
+}
+[b]{
+rotate:-4deg;
+margin-top:30
+}
+[c]{
+background:#FFF;
+width:20;
+height:70;
+margin:90 0 0 72;
+color:FFF;
+box-shadow:
+  116q 53q,
+  233q 0,
+  233q 48q
