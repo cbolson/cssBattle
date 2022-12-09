@@ -1,0 +1,33 @@
+<p>
+<p a>
+<style>
+*{background:#C74E4E}
+p{
+    width:20;
+    height:20;
+    margin:90 0 0 82;
+    background:#FFF;
+    border-radius:9q
+}
+[a]{
+    margin-top:80;
+    border-radius:5q;
+    background:#E0E246;
+    color:#E0E246;
+    box-shadow:
+        27q 0,
+        52q 0,
+        80q 0,
+        106q 0,
+        132q 0,
+        158q 0,
+        185q 0,
+        212q 0,
+        212q -25px,
+        212q -50px,
+        212q -80q,
+        212q -106q,
+        186q -106q,
+        158q -106q,
+        132q -106q,
+        106q -106q

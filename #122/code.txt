@@ -1,0 +1,30 @@
+<p><style>
+*{background:#173889}
+p{
+width:45;
+height:45;
+margin:-8 0 0 42;
+color:EE4F63;
+box-shadow:
+      215q 0,
+      162q 54q,
+      215q 54q,
+      0 108q#F8DA37,
+      54q 108q#F8DA37,
+      162q 108q,
+      0 162q#F8DA37,
+      54q 162q#F8DA37,
+      108q 162q,
+      215q 162q#B069F7,
+      0 215q,
+      54q 215q,
+      108q 215q,
+      162q 215q#2CE1EA,
+      215q 215q#B069F7,
+      270q 215q#B069F7,
+      0 270q#F8DA37,
+      54q 270q#2CE1EA,
+      108q 270q#2CE1EA,
+      162q 270q#2CE1EA,
+      215q 270q#B069F7,
+      270q 270q#2CE1EA

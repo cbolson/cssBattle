@@ -1,0 +1,23 @@
+<p t><p b t> 
+<p c>
+<style>
+*{
+background:#AC474B;
+aspect-ratio:1
+}
+[t]{
+width:20;
+border:10px solid;
+border-radius:50% 50% 0 50%;
+margin:50 0 0 157
+}
+[b]{
+scale:-1 1;
+margin:-40 0 0 187
+}
+[c]{
+width:60;
+color:FFF;
+background:#FFF;
+margin:20 0 0 122;
+box-shadow:85q 0,0 85q,85q 85q
