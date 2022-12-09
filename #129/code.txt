@@ -1,0 +1,14 @@
+<style>
+*{background:#6592CF}
+* *{
+background:#060F55;
+width:100;
+height:80;
+border-radius:0 41q 41q 0;
+margin:80 0 0 110;
+box-shadow:
+  0 64q#060F55,
+  42q 0#2E3B9F,
+  42q 64q#2E3B9F,
+  85q 0#515DBD,
+  85q 64q#515DBD

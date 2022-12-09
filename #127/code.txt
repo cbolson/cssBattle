@@ -1,0 +1,29 @@
+<p a><p b><p c><p d>
+<style>
+*,[d]{background:#E3516E}
+p{
+border-radius:1in;
+height:30;
+background:#FADE8B;
+width:100;
+color:FADE8B
+}
+[a]{
+margin:70 0 0 142;
+box-shadow:0 130px
+}
+[b]{
+margin:-30 0 0 252;
+width:30;
+box-shadow:-159q 130px
+}
+[c]{
+width:60;
+height:140;
+margin:-20 0 0 165
+}
+[d]{
+height:100;
+border-radius:11q;
+margin:-120 0 0 77;
+box-shadow:138q 0#E3516E
