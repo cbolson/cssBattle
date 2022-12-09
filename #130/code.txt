@@ -1,0 +1,11 @@
+<body bgcolor=926927>
+<p>
+<style>
+p{
+    width:60;
+    height:120
+    border:20px solid #FFF;
+    border-radius:30q;
+    margin:70 0 0 152;
+    filter:drop-shadow(-21q 0 #6D480A)
+}
