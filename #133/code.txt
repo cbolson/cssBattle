@@ -1,0 +1,32 @@
+<p><p b><p c><p d></p><div>
+<style>
+body{background:#F5D6B4;color:#D86F45}
+p{
+aspect-ratio:2/1;
+width:40;
+border-radius:900q 900q 0 0;
+border:20px solid;
+border-bottom:none;
+margin:110 0 0 152
+}
+[b]{
+scale:1 -1;
+margin:0 0 0 112;
+width:80
+}
+[c]{
+width:120;
+margin:-140 0 0 112
+}
+[d]{
+scale:1 -1;
+margin:0 0 0 72;
+width:160;
+}
+div{
+width:20;
+height:20;
+margin:-110 0 0 72;
+background:#D86F45;
+border-radius:50%;
+box-shadow:85q 0
