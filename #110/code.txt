@@ -1,0 +1,38 @@
+<p>
+<p b>
+<p c>
+<p d>
+<p e>
+<p f>
+<p g>
+<style>
+*{background:#D25B70}
+p{
+    height:10;
+    width:100;
+    background:#F2E09F;
+    border-radius:11q;
+    margin:195 0 0 72
+}
+[b]{
+    rotate:30deg;
+    margin:-45 0 0 82
+}
+[c]{
+    rotate:60deg;
+    margin:-35 0 0 107
+}
+[d]{
+    rotate:90deg;
+    margin:-20 0 0 142
+}
+[e]{
+    rotate:-60deg;
+    margin:-1 0 0 177
+    }
+[f]{
+    rotate:-30deg;
+    margin:16 0 0 203
+}
+[g]{
+    margin:25 0 0 212

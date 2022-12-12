@@ -1,0 +1,22 @@
+<p>
+<p b>
+<p c>
+<style>
+*{
+    background:#F3AC3C
+}
+p{
+    width:80;
+    height:80;
+    background:#254241;
+    border-radius:50% 50% 50% 0;
+    rotate:-135deg;
+    margin:110 0 0 72
+}
+[b]{
+    rotate:135deg;
+    margin:-10 0 0 152
+}
+[c]{
+    rotate:-45deg;
+    margin:-220 0 0 152
