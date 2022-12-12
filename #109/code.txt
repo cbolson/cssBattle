@@ -1,0 +1,21 @@
+<body bgcolor=191919>
+<p>
+<style>
+p{
+    width:40;
+    height:40;
+    border-radius:50%;
+    color:F6E59C;
+    margin:20 0 0 12;
+    background:#F6E59C;
+    box-shadow:
+        0 63q,
+        0 127q,
+        0 191q,
+        63q 0,
+        63q 63q,
+        63q 0,
+        63q 127q,
+        127q 0,
+        127q 63q,
+        191q 0
