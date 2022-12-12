@@ -1,0 +1,6 @@
+<body bgcolor=172D2C>
+<p style=
+    height:100%;
+    background:#E9AF53;
+    clip-path:polygon(3%27%,50%50%,50%4%,97%27%,50%50%,50%96%,3%73%
+>
