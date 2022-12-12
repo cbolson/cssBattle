@@ -1,6 +1,6 @@
 # cssBattle #115
 
-<img "https://cssbattle.dev/targets/115@2x.png">
+<img src="https://cssbattle.dev/targets/115@2x.png">
 
 ## Notes
 
