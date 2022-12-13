@@ -1,0 +1,22 @@
+<body bgcolor=#293D7E>
+<div>
+<p>
+<p b>
+<style>
+div{
+    width:130;
+    height:140;
+    border:20px solid #6E91CA;
+    border-radius:99px 99px 0 0;
+    border-bottom:0;
+    margin:45 0 0 107
+}
+p{
+    width:60;
+    height:80;
+    background:#6E91CA;
+    border-radius:30% 30% 45% 45%;
+    margin:100 0 0 -20
+}
+[b]{
+    margin:-80 0 0 90
