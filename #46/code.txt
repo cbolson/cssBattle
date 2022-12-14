@@ -1,0 +1,17 @@
+<p><i>
+<style>
+*{background:#293462;aspect-ratio:1}
+p{
+width:200;
+background:#FFF1C1;
+border-radius:50%;
+overflow:hidden;
+margin:50 0 0 92
+}
+i{
+background:#FE5F55;
+width:200;
+rotate:45deg;
+display:block;
+margin:100 0 0 42;
+box-shadow:-31q 137q#FE5F55
