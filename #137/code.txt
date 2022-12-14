@@ -1,0 +1,10 @@
+<p>
+<style>
+*{background:#6592CF}
+p{
+margin:50 0 0 42;
+border:53q solid #060F55;
+border-radius:104q 0 0 0;
+width:400;
+height:300;
+clip-path: polygon(0 0,317q 0,317q 211q,0 211q)

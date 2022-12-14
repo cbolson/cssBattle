@@ -1,0 +1,24 @@
+<div a><p b><p d><i>
+<style>
+*{background:#926927}
+div,p,i{
+width:200;
+height:200;
+border-radius:50%;
+overflow:hidden
+}
+[a]{margin:20 0 0 92}
+[b]{
+background:#6D480A;
+margin:100 0 0 -99;
+box-shadow:210q 0#6D480A
+}
+[d]{
+margin:-270 0 0 71;
+position:relative;
+background:transparent
+}
+i{
+background:#FFF;
+position:absolute;
+left:-142
