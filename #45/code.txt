@@ -1,0 +1,17 @@
+<p b><p a>
+<style>
+*{background:#1A4341;color:998235}
+[a]{
+width:30;
+height:400;
+background:#F3AC3C;
+margin:-190 0 0 177;
+box-shadow:-63q -226q,63q -226q,-127q -160q#F3AC3C,127q -160q#F3AC3C
+}
+[b]{
+width:150;
+height:30;
+background:#998235;
+margin:120 0 0 117;
+color:F3AC3C;
+box-shadow:-63q 63q,63q 63q,-63q 127q#998235,63q 127q#998235
