@@ -1,4 +1,4 @@
-<p><p b><p c><p d></p><div>
+<p><p b><p c><p d><div>
 <style>
 body{background:#F5D6B4;color:#D86F45}
 p{
@@ -9,8 +9,8 @@ border:20px solid;
 border-bottom:none;
 margin:110 0 0 152
 }
+[b],[d]{scale:1 -1}
 [b]{
-scale:1 -1;
 margin:0 0 0 112;
 width:80
 }
@@ -19,7 +19,6 @@ width:120;
 margin:-140 0 0 112
 }
 [d]{
-scale:1 -1;
 margin:0 0 0 72;
 width:160;
 }
