@@ -1,0 +1,15 @@
+<p><p b><p c><p d>
+<style>
+*{background:#F2F2B6}
+p{
+width:150;
+height:130;
+background:#FD4602;
+margin:85 0 0 73;
+clip-path:polygon(0 0,100% 0,50% 100%,0 0)
+}
+[b],[c],[d]{margin-top:-130}
+[b]{margin-left:52}
+[b],[c]{background:#FF6D00}
+[c],[d]{rotate:180deg;margin-left:182}
+[d]{margin-left:162
