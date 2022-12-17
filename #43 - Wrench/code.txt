@@ -1,0 +1,13 @@
+<body bgcolor=6592CF><p><p b>
+<style>
+p{
+margin:30 0 0 137;
+width:40;
+height:182;
+border:30px solid#243D83;
+border-left:none;
+border-radius:0 999q 999q 0
+}
+[b]{
+scale:-1 1;
+margin:-242 0 0 177
