@@ -1,13 +1,12 @@
-<div><p b><p d><i>
+<body bgcolor=926927><h5><p b><p d><i>
 <style>
-*{background:#926927}
 *>*{
 width:200;
 height:200;
 border-radius:50%;
 overflow:hidden
 }
-div{margin:20 0 0 92}
+h5{margin:20 0 0 92}
 [b]{
 background:#6D480A;
 margin:100 0 0 -99;

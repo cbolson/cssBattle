@@ -1,0 +1,16 @@
+<body bgcolor=62306D><p a><p b>
+<style>
+[a]{
+width:140;
+height:100;
+background:#F7EC7D;
+margin:100 0 0 92;
+box-shadow:63q 0 #E38F66
+}
+[b]{
+border-radius:50%;
+width:20;
+height:20;
+color:62306D;
+margin:-109 0 0 60;
+box-shadow:23q 0 0 10q,23q 105q 0 10q,171q 0,171q 105q,234q 0 0 10q,235q 105q 0 10q
