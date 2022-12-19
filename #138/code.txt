@@ -6,16 +6,15 @@ height:200;
 border-radius:50%;
 overflow:hidden
 }
-h5{margin:20 0 0 92}
+h5{margin:20 92}
 [b]{
 background:#6D480A;
-margin:100 0 0 -99;
+margin:100-99;
 box-shadow:210q 0#6D480A
 }
 [d]{
-margin:-270 0 0 71;
-position:relative;
-background:none
+margin:-370 71;
+position:relative
 }
 i{
 background:#FFF;

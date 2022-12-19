@@ -1,15 +1,17 @@
-<p><p d>
+<p>
+<p d>
 <style>
 *{
-background:#62306D;
-margin:35 0 0 40
+    
+    background:#62306D;
+    margin:35 40
 }
 p{
-width:80;
-height:160;
-background:#F7EC7D;
-border-radius:85q 0 43q 0
+    width:80;
+    height:160;
+    background:#F7EC7D;
+    border-radius:85q 0 43q
 }
 [d]{
-scale:-1 1;
-margin:-160 0 0 120
+    scale:-1 1;
+    margin:-195 120
