@@ -1,0 +1,13 @@
+<p><h5><style>
+*{background:#4F77FF;aspect-ratio:1}
+p{
+width:80;
+border-radius:50%;
+box-shadow:0 -42q #FFF;
+margin:90 152
+}
+h5{
+width:300;
+background:#1038BF;
+rotate:45deg;
+margin:-60 42
