@@ -1,0 +1,1 @@
+<body bgcolor=191919><p><p b><style>p{border-radius:21q;width:40;height:300;background:#FE5F55;margin:-178 172;color:FE5F55;box-shadow:0 360q}[b]{rotate:90deg;background:#A64942;margin:48 342;color:A64942

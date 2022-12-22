@@ -2,30 +2,7 @@
 <p d>
 <p f>
 <style>
-*{
-    background:#191919
-}
-p{
-    background:#FE5F55;
-    color:FE5F55;
-    width:10;
-    height:100;
-    margin:90 0 0 87;
-    box-shadow:
-        73q 0,
-        147q 0#A64942,
-        222q 0
-}
-[d]{
-    width:50;
-    height:40;
-    margin:-20 0 0 47;
-    border-radius:50%
-}
-[f]{
-    scale:3.97 0.1;
-    margin:-165 0 0 102;
-    box-shadow:
-        9q 0,37q 0#A64942,
-        56q 0,
-        56q 207q
+*{background:#191919}
+p{background:#FE5F55;color:FE5F55;box-shadow:73q 0,147q 0#A64942,222q 0;width:10;height:100;margin:90 0 0 87}
+[d]{width:50;height:40;margin:-20 47;border-radius:50%}
+[f]{scale:3.97 0.1;margin:-165 102;box-shadow:9q 0,37q 0#A64942,56q 0,56q 207q

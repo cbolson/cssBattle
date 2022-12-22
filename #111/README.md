@@ -3,4 +3,4 @@
 ## Notes
 
 - 100%
-- 220 Chars
+- 202 Chars

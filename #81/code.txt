@@ -1,5 +1,2 @@
-<body bgcolor=#191919><p a><p b>
-<style>
-p{border-radius:99q}
-[a]{width:40;height:40;border:20px solid#8F8F8F;margin:122 0 0 118q;color:8F8F8F;filter:drop-shadow(-86q 0 0#714B67)drop-shadow(87q 0)drop-shadow(87q 0)}
-[b]{width:20;height:60;background:#8F8F8F;margin:-100 0 0 171
+<body bgcolor=191919><p a><p b><style>p{border-radius:99q}[a]{width:40;height:40;border:20px solid;margin:122 111;color:8F8F8F;
+filter:drop-shadow(-86q 0#714B67)drop-shadow(87q 0)drop-shadow(87q 0)}[b]{width:20;height:60;background:#8F8F8F;margin:-222 171

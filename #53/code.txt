@@ -1,17 +1,15 @@
-<p a>
-<p b>
+<h4>
+<h5>
 <style>
 *{background:#19191A}
-[b]{
-width:0;
-border:75px solid#4F77FF;
-border-bottom-color:#9AD5FF;
-border-radius:50%;
-rotate:45deg;
-margin:-200 0 0 117
-}
-[a]{
-margin:125 0 0 117;
+h4{
+margin:125 117;
 width:75;
 height:125;
-background:#F9E492
+background:#F9E492}
+h5{
+border:75px solid#4F77FF;
+border-bottom-color:9AD5FF;
+border-radius:50%;
+rotate:45deg;
+margin:-325 117
