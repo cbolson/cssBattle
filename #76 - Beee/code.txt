@@ -1,0 +1,34 @@
+<p><p b><h5><i></i><h6>
+<style>
+*{background:#998235;height:75;border-radius:999q}
+p{
+border-bottom-right-radius:0;
+width:75;
+background:#FFF;
+margin:75 117
+}
+[b]{
+scale:-1 1;
+margin:-150 192
+}
+h5{
+width:150;
+background:#EFF33C;
+margin:150 117;
+overflow:hidden
+}
+i{
+width:25;
+margin:-15 0;
+height:99;
+display:block;
+color:191919;
+box-shadow:37q 0,74q 0
+}
+i,h6{
+background:#191919; 
+}
+h6{
+width:15;
+height:15;
+margin:-205 232

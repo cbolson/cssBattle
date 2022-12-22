@@ -1,0 +1,18 @@
+<body bgcolor=D25B70><p><p b><p c>
+<style>
+p{
+background:#F7F3DA;
+margin:150 142;
+aspect-ratio:1;
+width:100
+}
+[b],[c]{rotate:37deg}
+[b]{
+scale:.6;
+background:#6CB3A9;
+margin:-342 86
+}
+[c]{
+scale:.8;
+background:#F6DF96;
+margin:228 184

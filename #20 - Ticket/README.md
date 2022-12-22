@@ -5,4 +5,4 @@
 ## Notes
 
 - 100%
-- 281 Chars
+- 266 Chars
