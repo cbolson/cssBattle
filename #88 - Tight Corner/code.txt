@@ -4,13 +4,13 @@ p{
 border-radius:11q;
 height:60;
 width:220;
-margin:110 0 0 -28
+margin:110-28
 }
 [a]{
 box-shadow:232q 21q#D25B70;
 background:#D25B70
 }
 [b]{
-margin:-20 0 0 -28;
+margin:-130-28;
 border-radius:21q;
-box-shadow: 233q -64q#F7F3DA
+box-shadow:233q -64q#F7F3DA
