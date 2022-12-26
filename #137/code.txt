@@ -1,8 +1,1 @@
-<body bgcolor=6592CF>
-<p style="
-margin:50 42;
-border:53q solid#060F55;
-border-radius:104q;
-width:400;
-height:300;
-clip-path:polygon(0 0,317q 0,317q 211q,0 211q">
+<body bgcolor=6592CF><p style="margin:50 42;border:53q solid#060F55;border-radius:104q;width:400;height:300;clip-path:polygon(0 0,60% 0,60%50%,0 50%">

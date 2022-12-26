@@ -1,15 +1,1 @@
-<p><h5>
-<style>
-*{background:#E38F66}
-p{
-color:FFFBDA;
-border:35q solid transparent;
-border-bottom:127q solid;
-width:62;
-margin:57 128
-}
-h5{
-width:10;
-height:100;
-background:#62306D;
-margin:-57 187
+<body bgcolor=E38F66><p><h5><style>p{border:35q solid transparent;border-bottom:127q solid #FFFBDA;width:62;margin:57 128}h5{width:10;height:99;background:#62306D;margin:-57 187

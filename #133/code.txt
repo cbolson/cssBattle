@@ -1,15 +1,14 @@
 <body bgcolor=F5D6B4><p><p b><p c><p d><h5>
 <style>
-p,h{color:D86F45}
+*{color:D86F45;border-radius:900q 900q 0 0;}
 p{
 aspect-ratio:2/1;
 width:40;
-border-radius:900q 900q 0 0;
 border:20px solid;
 border-bottom:none;
 margin:110 152
 }
-[b],[d]{scale:1 -1}
+[b],[d]{scale:1-1}
 [b]{
 margin:-110 112;
 width:80
