@@ -1,0 +1,1 @@
+<p><style>*{background:#5C434C;margin:0}p{margin:10 10;width:80;height:80;border-radius:99q 0 0;color:F5D6B4;background:#F09462;box-shadow:106q 0,212q 0#F09462,317q 0,0 106q,106q 106q #F09462,212q 106q,317q 106q #F09462,0 212q#F09462,106q 212q,212q 212q#F09462,317q 212q}
