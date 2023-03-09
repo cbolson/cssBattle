@@ -1,0 +1,22 @@
+<p><h5><p c>
+<style>
+*,[c]{
+    background:#191919;
+    aspect-ratio:1
+}
+p{
+    margin:50 92;
+    background:#F9E492;
+    border-radius:50%;
+    width:200
+}
+h5{
+    background:#4F77FF;
+    width:260;
+    margin:-87 62;
+    overflow:
+    hidden;
+    rotate:45deg
+}
+[c]{
+    margin:-106
