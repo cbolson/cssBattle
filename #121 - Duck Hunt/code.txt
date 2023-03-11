@@ -1,0 +1,2 @@
+<p a><p b><style>[a]{width:20;height:100;background:#441A0A;margin:80 50}[b]{border-radius:50%;background:#69D10A;color:#69D10A;width:40;height:40;margin:-200 40;box-shadow:-21q 21q,0 21q,21q 21q,270px 74q,270px 95q}
+body{background:#1E92FF;margin:0;height:100;box-shadow:0 42q#69D10A,0 144q#6F6100
