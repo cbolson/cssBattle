@@ -1,0 +1,21 @@
+<p><p b><p c><p d>
+<style>
+*{background:#191919}
+p{
+border-radius:0 99q 99q 0;
+width:50;
+height:100;
+background:#4F77FF;
+margin:50 192
+}
+[b]{
+margin:-50 142;
+rotate:180deg
+}
+[c],[d]{background:#F9E492}
+[c]{
+margin:-175 117;
+rotate:-90deg
+}
+[d]{
+margin:125 217;rotate:90deg
