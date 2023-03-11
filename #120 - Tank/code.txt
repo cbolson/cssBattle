@@ -1,0 +1,9 @@
+<p a><p b><h6>
+<style>
+body{background:#000;border:20px solid#54C144;margin:0;height:260}
+p{background:#C74E4E;color:#C74E4E}
+[a],h6{margin:40} 
+[a]{width:80;height:40;box-shadow:127q 0,0 85q,84q 85q,127q 85q}
+[b]{width:40;height:180;margin:-80 280}
+h6{background:#54C144;width:10;height:10;color:#54C144;
+box-shadow:11q 0,20px 0,30px 0,11q 10px,21q 10px,11q 15px,22q 15px,30px 15px,40px 15px,60px 15px#FFF,80px 15px#FFF,11q 20px,21q 20px,0 30px,10px 30px,20px 30px,30px 30px
