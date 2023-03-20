@@ -1,0 +1,10 @@
+<p><style>
+*{background:#1A4341}
+p{
+border-radius:106q;
+width:300;
+height:250;
+background:#F3AC3C;
+color:#F3AC3C;
+margin:-108;
+box-shadow:300px 0,0 250px,300px 250px
