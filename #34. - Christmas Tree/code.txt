@@ -1,0 +1,16 @@
+<p><p b><p c>
+<style>
+*{background:#007065}
+p{
+width:0;
+border:125px solid #007065;
+border-bottom:101px solid#00A79D;
+margin:24 67
+}
+[b]{
+border-bottom-color:#F5C181;
+margin:-300 66
+}
+[c]{
+border-bottom-color:#FFEECF
+}
