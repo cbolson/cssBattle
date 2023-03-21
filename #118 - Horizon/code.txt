@@ -1,0 +1,8 @@
+<style>
+html{
+height:100vh;
+background:linear-gradient(
+#F7EC7D 53q,
+#E38F66 53q 106q,
+#AA445F 106q 212q,
+#62306D 212q
