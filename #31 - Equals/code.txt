@@ -1,14 +1,12 @@
-<body bgcolor=AA445F><p><p b>
+<p>
 <style>
+*{background:#AA445F}
 p{
-border-radius:106q 0 0 106q;
-width:100;
 height:200;
-background:#F7EC7D;
-margin:50 0 0 67
-}
-[b]{
-border-radius:0 106q 106q 0;
-background:#E38F66;
-margin:-200px 0 0 217
-}
+width:250;
+margin:50 67;
+border-radius:99px;
+background:linear-gradient(90deg,
+#F7EC7D 106q,
+#AA445F 106q 159q,
+#E38F66 159q
