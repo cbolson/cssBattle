@@ -1,0 +1,1 @@
+<p a><p b><p c g><p e g><style>*{background:#6592CF}[a]{border:106q solid#6592CF;border-bottom-color:#243D83;margin:-58 92}[b]{width:150;height:110;background:#243D83;border-radius:10q;margin:48 117}[g]{background:#EEB850}[c]{width:50;height:50;margin:-98 167;border-radius:10q 10q 0 0}[e]{height:10;width:100;border-radius:5q;margin:-105 142

@@ -1,0 +1,31 @@
+<p l><p b l><p c l><p d><p e>
+<style>
+body{background:#1A4341}
+p{
+width:10;
+border-radius:6q;
+background:#F3AC3C;
+margin:50 187;
+aspect-ratio:1
+}
+[l]{height:180}
+[b]{
+rotate:60deg;
+margin:-225 196
+}
+[c]{
+rotate:-60deg;
+margin:55 196
+}
+[d]{
+border-radius:50%; 
+width:100;
+background:#F3AC3C;
+margin:-200 142
+}
+[e]{
+isolation:isolate;
+margin:120 211;
+background:#998235;
+color:998235;
+box-shadow:-26q 53q 0 5q,-41q 11q 0 10px
