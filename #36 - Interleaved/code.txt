@@ -1,0 +1,9 @@
+<p><style>*{background:#1A4341}
+p{
+width:50;
+height:300;
+background:#F3AC3C;
+color:#998235;
+border-radius:26q;
+margin:100 17;
+box-shadow:79q -212q,158q 0#F3AC3C,238q -212q,318q 0#F3AC3C
