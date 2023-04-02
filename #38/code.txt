@@ -1,0 +1,14 @@
+<style>
+*{
+background:#FFF1C1;
+width:200;
+height:200;
+margin:0;
+color:FE5F55;
+box-shadow:
+106q -52q,
+106q 0#A64942,
+-52q 106q,
+0 106q#A64942,
+212q 0#293462,
+212q 106q#293462
