@@ -1,0 +1,24 @@
+<p a><p b><p c>
+<style>
+*{background:#293462}
+p{
+width:50;
+height:160;
+color:FE5F55
+}
+[a]{
+margin:180 142;
+border-radius:0 42q 0 0;
+box-shadow:0 -106q;
+}
+[b]{
+margin:-340 192;
+border-radius:42q 0 0;
+box-shadow:0 -106q;
+}
+[c]{
+width:30;
+height:30;
+border-radius:50%;
+margin:140 157;
+box-shadow:40px 0#293462

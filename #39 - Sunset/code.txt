@@ -1,0 +1,23 @@
+<p a><p b><i>
+<style>
+body{background:#1A4341}
+p{
+aspect-ratio:1;
+border-radius:50%;
+margin:50 92;
+width:200;
+}
+[a]{
+background:#998235;
+}
+[b]{
+width:250;
+margin:-275 67;
+overflow:hidden;
+}
+i{
+display:block;
+width:100%;
+height:20px;
+color:1A4341;
+box-shadow:0 55px,0 75px #F3AC3C,0 95px,0 115px #F3AC3C,0 135px,0 155px #F3AC3C,0 175px
