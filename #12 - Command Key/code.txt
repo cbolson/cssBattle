@@ -1,0 +1,8 @@
+<p><p b><p c><p d><p e>
+<style>
+*{background:#191919}
+p{border:10px solid#5DBCF9;border-radius:50% 50% 0 50%;width:50;height:50;margin:54 98}
+[b]{rotate:-90deg;margin:-4 98}
+[c]{rotate:90deg;margin:-190 218}
+[d]{rotate:180deg;margin:240 218}
+[e]{border-radius:0;margin:-370 158
