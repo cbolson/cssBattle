@@ -1,0 +1,23 @@
+<h5><p><p b>
+<style>
+*{background:#191919}
+h5{
+width:150;
+height:200;
+background:#F2AD43;
+border-radius:100q 100q 27q 27q;
+overflow:hidden;
+margin:50 117
+}
+p{
+border-radius:50%; 
+background:#FFF58F;
+width:60;
+aspect-ratio:1;
+margin:90 45
+}
+[b]{
+width:200;
+background:#824B20;
+margin:-140 50;
+box-shadow:-159q 0 #E08027
