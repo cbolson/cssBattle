@@ -1,0 +1,25 @@
+<h5></h5><p>
+<style>
+body{background:#191919;}
+* > *{aspect-ratio:1;background:#4F77FF}
+h5{width:110;margin:95 137}
+p{
+border-radius:50%;
+width:30;
+color:F9E492;
+margin:-225 117;
+box-shadow:
+8px 8px 0 8q,
+15px 15px 0 15px #191919,
+
+120px 0 #4F77FF, 
+112px 8px 0 8q,
+105px 15px 0 15px #191919,
+
+0 120px #4F77FF,
+8px 112px 0 8q,
+15px 105px 0 15px #191919,
+  
+120px 120px #4F77FF,
+112px 112px 0 8q,
+105px 105px 0 15px #191919
