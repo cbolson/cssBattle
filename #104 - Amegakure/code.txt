@@ -1,0 +1,29 @@
+<p a><p b><p d><p f>
+<style>
+*{
+background:#000;
+color:000
+}
+[a]{
+width:240;
+height:120;
+background:#37385A;
+border-radius:21q;
+margin:90 72
+}
+[b],[d],[f]{border-radius:10q;width:10}
+[b]{
+width:200;
+height:80;
+background:linear-gradient(-75deg,#9897AE 87q,#C0C3DB 0,#C0C3DB 140q,#9897AE 0);
+margin:-190 92
+}
+[d]{
+height:10;
+margin:125 107;
+box-shadow:0 21q,0 43q, 170q 0,170q 21q,170q 43q
+}
+[f]{
+height:50;
+margin:-135 157;
+box-shadow:21q 0,43q 0,64q 0
