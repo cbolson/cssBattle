@@ -1,0 +1,18 @@
+<p a>
+<p b>
+<style>
+*{background:#F3AC3C}
+p{
+border-radius:50%;
+aspect-ratio:1
+}
+[a]{
+width:200;
+background:#1A4341;
+margin:50 92;
+box-shadow:0 0 0 27q#F3AC3C,0-212q 0 106q#998235
+}
+[b]{
+background:#998235;
+margin:-150 -8;
+width:400
