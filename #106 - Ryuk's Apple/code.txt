@@ -1,0 +1,24 @@
+<p a r c><p b r c><p e c><p t r>
+<style>
+*{background:#000}
+p{
+margin:90 112;
+width:100;
+height:120
+}
+[r]{background:#D4392D}
+[c]{border-radius:50%;rotate:-30deg}
+[b]{
+rotate:30deg;
+margin:-210 172
+}
+[e]{
+width:52;
+height:52;
+margin:100 92;
+box-shadow:-21q 38q#000
+}
+[t]{
+width:10;
+height:40;
+margin:-182 187
