@@ -1,0 +1,19 @@
+<p a><p b><p c><p d><p e>
+<style>
+body{background:#243D83}
+p{
+aspect-ratio:1;
+border-radius:50%;
+border:20px solid #243D83;
+width:130;
+background:#0000;
+}
+[a]{
+background:#6592CF;
+width:200;
+margin:30 72
+}
+[b]{margin:-235 32}
+[c]{margin:140 107}
+[d]{margin:-460 107}
+[e]{margin:365 182}
