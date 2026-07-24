@@ -14,9 +14,18 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (1)
+### Battles (2)
 
 <ul>
+<li>
+<details>
+<summary><strong>Battle #39 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2339/%23261.%20Road%20Sign/">#261. Road Sign</a> (265 Characters)</li>
+</ul>
+</details>
+</li>
 <li>
 <details>
 <summary><strong>Battle #40 (1)</strong></summary>
