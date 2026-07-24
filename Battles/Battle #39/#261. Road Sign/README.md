@@ -1,6 +1,6 @@
 # #261. Road Sign
 
-Challenge: <https://cssbattle.dev/play/261>
+Challenge: <https://cssbattle.dev/play/261#>
 
 ## Result
 
@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/261>
 ## Code
 
 ```html
-<img><p><p><style>&{background:#2d3464}img{background:#48bf7d;padding:120 20;margin:22 172}p{background:#ecdfea;border-radius:32q 67px 67px 32q/5ch 53q 53q 5ch;corner-shape:round bevel bevel round;height:60;width:200;margin:-242 92;scale:1;+p{scale:-1;margin:252 92
+<img><p><p><style>&{background:#2d3464}img{background:#48bf7d;padding:120 20;margin:22 172}p{background:#ecdfea;border-radius:32q 71q 71q 32q/5ch 53q 53q 5ch;corner-shape:round bevel bevel round;height:60;width:200;margin:-242 92;scale:1;+p{scale:-1;margin:252 92
 ```
 
 ## Prettified code
@@ -40,7 +40,7 @@ img {
 }
 p {
   background: #ecdfea;
-  border-radius: 32Q 67px 67px 32Q / 5ch 53Q 53Q 5ch;
+  border-radius: 32Q 71Q 71Q 32Q / 5ch 53Q 53Q 5ch;
   corner-shape: round bevel bevel round;
   height: 60;
   width: 200;

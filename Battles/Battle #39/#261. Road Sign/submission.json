@@ -2,7 +2,7 @@
   "challengeMode": "battle",
   "challengeId": "261",
   "challengeName": "#261. Road Sign",
-  "challengeUrl": "https://cssbattle.dev/play/261",
+  "challengeUrl": "https://cssbattle.dev/play/261#",
   "battleId": "39",
   "battleGroup": "Battle #39",
   "challengeLabel": "#261. Road Sign",
@@ -10,8 +10,8 @@
   "battleStatus": null,
   "dailyDateIso": null,
   "dailyDateLabel": null,
-  "submittedAt": "2026-07-24T19:16:02.634Z",
-  "score": 632,
+  "submittedAt": "2026-07-24T19:17:13.631Z",
+  "score": 632.62,
   "matchPct": 100,
-  "characterCount": 265
+  "characterCount": 263
 }

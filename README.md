@@ -22,7 +22,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #39 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2339/%23261.%20Road%20Sign/">#261. Road Sign</a> (265 Characters)</li>
+<li><a href="./Battles/Battle%20%2339/%23261.%20Road%20Sign/">#261. Road Sign</a> (263 Characters)</li>
 </ul>
 </details>
 </li>
