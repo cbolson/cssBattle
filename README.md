@@ -45,7 +45,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>July 2026 (1/26+)</strong></summary>
 
 <ul>
-<li><a href="./Daily%20Targets/2026-07-26/">Jul 26, 2026</a> (124 Characters)</li>
+<li><a href="./Daily%20Targets/2026-07-26/">Jul 26, 2026</a> (103 Characters)</li>
 </ul>
 </details>
 </li>
