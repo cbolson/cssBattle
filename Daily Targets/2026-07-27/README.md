@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/9tg5HEQqGWBN3Apa88HN>
 ## Code
 
 ```html
-<style>*{color:22D16A;margin:80 320 50%60;*{margin:0-200 0 130;--s:0 30vw,0 5pc,5vw 5pc,0 5ch,5ch 5ch}box-shadow:inset 1in 0,64q 0,var(--s,32Q 0,5lh 0,32q 5ch,64q 5ch,5lh 5ch,64q 5pc,5lh 5pc,5lh 30vw,0 0 0 9in#3450ae
+<style>*{color:22D16A;margin:80 230 50%150;*{margin:0-110 0 40;--s:64q 0,5ch 5ch,5vw 5pc}box-shadow:inset 1in 0,0 5ch,0 5pc,0 30vw,var(--s,-32q 0,-64q 0,-5lh 0,-32q 5ch,-64q 5ch,-32q 5pc,0 0 0 9in#3450ae
 ```
 
 ## Prettified code
@@ -31,24 +31,24 @@ Challenge: <https://cssbattle.dev/play/9tg5HEQqGWBN3Apa88HN>
 <style>
 * {
   color: 22D16A;
-  margin: 80 320 50% 60;
+  margin: 80 230 50% 150;
   * {
-    margin: 0 -200 0 130;
-    --s: 0 30vw, 0 5pc, 5vw 5pc, 0 5ch, 5ch 5ch;
+    margin: 0 -110 0 40;
+    --s: 64Q 0, 5ch 5ch, 5vw 5pc;
   }
   box-shadow:
     inset 1in 0,
-    64Q 0,
+    0 5ch,
+    0 5pc,
+    0 30vw,
     var(
       --s,
-      32Q 0,
-      5lh 0,
-      32Q 5ch,
-      64Q 5ch,
-      5lh 5ch,
-      64Q 5pc,
-      5lh 5pc,
-      5lh 30vw,
+      -32Q 0,
+      -64Q 0,
+      -5lh 0,
+      -32Q 5ch,
+      -64Q 5ch,
+      -32Q 5pc,
       0 0 0 9in #3450ae
     );
 }
