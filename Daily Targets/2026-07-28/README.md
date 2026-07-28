@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/LtfUvFd3HF61ZOGlL9Q9>
 ## Code
 
 ```html
-<p><style>&{box-shadow:0 0 0 9in#4c4c6b}&,&>*{border:5vw solid#ebf6f0}*{background:#4a9a86;margin:-20 80;height:60;body{--s:;margin:-10 10;height:140;border-radius:9in;clip-path:polygon(0 74Q,100%74Q,100%100%,110px 100%,110px 25pc,74Q 25pc,74Q 100%,0 100%);*{height:200;margin:110 55
+<p><style>&{margin:-20 80 220;background:#4C4C6B;border:5vw solid#EBF6F0;*{margin:-20-50-120;background:radial-gradient(1q,#4A9A86 74q,#EBF6F0 0 5lh,#0000);p{background:#4A9A86;position:fixed;margin:120 135 0;padding:100 15;box-shadow:0-344q 0 90q#4A9A86
 ```
 
 ## Prettified code
@@ -31,34 +31,18 @@ Challenge: <https://cssbattle.dev/play/LtfUvFd3HF61ZOGlL9Q9>
 <p>
 <style>
 & {
-  box-shadow: 0 0 0 9in #4c4c6b;
-}
-&,
-& > * {
+  margin: -20 80 220;
+  background: #4c4c6b;
   border: 5vw solid #ebf6f0;
-}
-* {
-  background: #4a9a86;
-  margin: -20 80;
-  height: 60;
-  body {
-    --s:;
-    margin: -10 10;
-    height: 140;
-    border-radius: 9in;
-    clip-path: polygon(
-      0 74Q,
-      100% 74Q,
-      100% 100%,
-      110px 100%,
-      110px 25pc,
-      74Q 25pc,
-      74Q 100%,
-      0 100%
-    );
-    * {
-      height: 200;
-      margin: 110 55;
+  * {
+    margin: -20 -50 -120;
+    background: radial-gradient(1Q, #4a9a86 74Q, #ebf6f0 0 5lh, transparent);
+    p {
+      background: #4a9a86;
+      position: fixed;
+      margin: 120 135 0;
+      padding: 100 15;
+      box-shadow: 0 -344Q 0 90Q #4a9a86;
     }
   }
 }
