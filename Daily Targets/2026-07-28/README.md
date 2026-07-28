@@ -22,29 +22,21 @@ Challenge: <https://cssbattle.dev/play/LtfUvFd3HF61ZOGlL9Q9>
 ## Code
 
 ```html
-<p><style>&{margin:-20 80 220;background:#4C4C6B;border:5vw solid#EBF6F0;*{margin:-20-50-120;background:radial-gradient(1q,#4A9A86 74q,#EBF6F0 0 5lh,#0000);p{background:#4A9A86;position:fixed;margin:120 135 0;padding:100 15;box-shadow:0-344q 0 90q#4A9A86
+<style>&{background:linear-gradient(90deg,#4a9a86 32q,#0000 0)196q 0,radial-gradient(1q at 50%5vw,#4a9a86 74q,#ebf6f0 0 5lh,#0000)0 63q,conic-gradient(at 25vw 60px,#4a9a86 25%,#0000 0)0 0/75vw,conic-gradient(at 5pc 5pc,#ebf6f0 25%,#0000 0)0/80vw#4c4c6b
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
 & {
-  margin: -20 80 220;
-  background: #4c4c6b;
-  border: 5vw solid #ebf6f0;
-  * {
-    margin: -20 -50 -120;
-    background: radial-gradient(1Q, #4a9a86 74Q, #ebf6f0 0 5lh, transparent);
-    p {
-      background: #4a9a86;
-      position: fixed;
-      margin: 120 135 0;
-      padding: 100 15;
-      box-shadow: 0 -344Q 0 90Q #4a9a86;
-    }
-  }
+  background:
+    linear-gradient(90deg, #4a9a86 32Q, transparent 0) 196Q 0,
+    radial-gradient(1Q at 50% 5vw, #4a9a86 74Q, #ebf6f0 0 5lh, transparent) 0
+      63Q,
+    conic-gradient(at 25vw 60px, #4a9a86 25%, transparent 0) 0 0 / 75vw,
+    conic-gradient(at 5pc 5pc, #ebf6f0 25%, transparent 0) 0 / 80vw #4c4c6b;
 }
+
 </style>
 ```

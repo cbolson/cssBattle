@@ -47,7 +47,7 @@ Note - I have not yet complete all the challenges.
 <ul>
 <li><a href="./Daily%20Targets/2026-07-26/">Jul 26, 2026</a> (101 Characters)</li>
 <li><a href="./Daily%20Targets/2026-07-27/">Jul 27, 2026</a> (203 Characters)</li>
-<li><a href="./Daily%20Targets/2026-07-28/">Jul 28, 2026</a> (254 Characters)</li>
+<li><a href="./Daily%20Targets/2026-07-28/">Jul 28, 2026</a> (252 Characters)</li>
 </ul>
 </details>
 </li>
