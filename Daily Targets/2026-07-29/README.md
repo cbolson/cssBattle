@@ -22,27 +22,27 @@ Challenge: <https://cssbattle.dev/play/PnDXitrVaUCdncId6g1x>
 ## Code
 
 ```html
-<img><img c=7><style>&>*{background:#a84a4b;color:F5E3B5;margin:110 30%15%40;border-inline:5vw solid;*{margin:0 20 0 0;padding:40;box-shadow:inset 1in 0,attr(c pc,55vw)0;border-radius:attr(c in,0%50%50%0
+<style>*{background:#a84a4b;color:F5E3B5;margin:110 40 30%60;border-top:5pc dotted;*{margin:-80 100-82;box-shadow:-30vw 60px 0-5vw#A84A4B,-34vw -4vw 0-4vw,25vw 64q 0-5vw#A84A4B,5pc -4vw 0-4vw
 ```
 
 ## Prettified code
 
 ```html
-<img><img c=7>
 <style>
-& > * {
+* {
   background: #a84a4b;
   color: F5E3B5;
-  margin: 110 30% 15% 40;
-  border-inline: 5vw solid;
+  margin: 110 40 30% 60;
+  border-top: 5pc dotted;
   * {
-    margin: 0 20 0 0;
-    padding: 40;
+    margin: -80 100 -82;
     box-shadow:
-      inset 1in 0,
-      attr(c pc, 55vw) 0;
-    border-radius: attr(c in, 0% 50% 50% 0);
+      -30vw 60px 0 -5vw #a84a4b,
+      -34vw -4vw 0 -4vw,
+      25vw 64Q 0 -5vw #a84a4b,
+      5pc -4vw 0 -4vw;
   }
 }
+
 </style>
 ```
