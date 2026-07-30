@@ -23,17 +23,19 @@ Challenge: <https://cssbattle.dev/play/222>
 
 ```html
 <style>
+*{
+  background:#4B4D88; 
+}
 &{
+  color:B0E1FB;
     margin:110 135 130;
-    background:#4B4D88;
     corner-shape:bevel;
-    border-radius:9in 9in 0 0;
-    box-shadow: 0 90px #C15965,0 0 0 9in #B0E1FB;
+    border-radius:1in 1in 0 0;
+    box-shadow: 0 90px #C15965,0 0 0 9in;
   *{
     margin:-70 30;
     border-radius:9in;
-    background:#4B4D88;
-    border:10px solid #B0E1FB;
+    border:10px solid;
   }
   }
 }
@@ -44,17 +46,19 @@ Challenge: <https://cssbattle.dev/play/222>
 
 ```html
 <style>
+*{
+  background:#4B4D88; 
+}
 &{
+  color:B0E1FB;
     margin:110 135 130;
-    background:#4B4D88;
     corner-shape:bevel;
-    border-radius:9in 9in 0 0;
-    box-shadow: 0 90px #C15965,0 0 0 9in #B0E1FB;
+    border-radius:1in 1in 0 0;
+    box-shadow: 0 90px #C15965,0 0 0 9in;
   *{
     margin:-70 30;
     border-radius:9in;
-    background:#4B4D88;
-    border:10px solid #B0E1FB;
+    border:10px solid;
   }
   }
 }

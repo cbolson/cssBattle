@@ -22,7 +22,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #34 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2334/%23222.%20Rocket/">#222. Rocket</a> (284 Characters)</li>
+<li><a href="./Battles/Battle%20%2334/%23222.%20Rocket/">#222. Rocket</a> (264 Characters)</li>
 </ul>
 </details>
 </li>
