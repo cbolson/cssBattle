@@ -28,12 +28,13 @@ Challenge: <https://cssbattle.dev/play/222>
 }
 &{
   color:B0E1FB;
-    margin:110 135 130;
+    margin:129 135;
     corner-shape:bevel;
     border-radius:1in 1in 0 0;
-    box-shadow: 0 90px #C15965,0 0 0 9in;
+    box-shadow: 0 95px #C15965,0 0 0 9in;
+  scale: 1 .95;
   *{
-    margin:-70 30;
+    margin:-94 30 -73;
     border-radius:9in;
     border:10px solid;
   }
@@ -51,12 +52,13 @@ Challenge: <https://cssbattle.dev/play/222>
 }
 &{
   color:B0E1FB;
-    margin:110 135 130;
+    margin:129 135;
     corner-shape:bevel;
     border-radius:1in 1in 0 0;
-    box-shadow: 0 90px #C15965,0 0 0 9in;
+    box-shadow: 0 95px #C15965,0 0 0 9in;
+  scale: 1 .95;
   *{
-    margin:-70 30;
+    margin:-94 30 -73;
     border-radius:9in;
     border:10px solid;
   }
