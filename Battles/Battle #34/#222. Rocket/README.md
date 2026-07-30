@@ -22,47 +22,31 @@ Challenge: <https://cssbattle.dev/play/222>
 ## Code
 
 ```html
-<style>
-*{
-  background:#4B4D88; 
-}
-&{
-  color:B0E1FB;
-    margin:129 135;
-    corner-shape:bevel;
-    border-radius:1in 1in 0 0;
-    box-shadow: 0 95px #C15965,0 0 0 9in;
-  scale: 1 .95;
-  *{
-    margin:-94 30 -73;
-    border-radius:9in;
-    border:10px solid;
-  }
-  }
-}
-</style>
+<style>&{color:B0E1FB;margin:129 135;corner-shape:bevel;box-shadow:0 101q#c15965,0 0 0 9in;scale:1 .95;*{--r:9in;margin:-94 30-73;border:11q solid}}*{background:#4b4d88;border-radius:var(--r,1in 1in 0 0
 ```
 
 ## Prettified code
 
 ```html
 <style>
-*{
-  background:#4B4D88; 
-}
-&{
-  color:B0E1FB;
-    margin:129 135;
-    corner-shape:bevel;
-    border-radius:1in 1in 0 0;
-    box-shadow: 0 95px #C15965,0 0 0 9in;
-  scale: 1 .95;
-  *{
-    margin:-94 30 -73;
-    border-radius:9in;
-    border:10px solid;
-  }
+& {
+  color: B0E1FB;
+  margin: 129 135;
+  corner-shape: bevel;
+  box-shadow:
+    0 101Q #c15965,
+    0 0 0 9in;
+  scale: 1 0.95;
+  * {
+    --r: 9in;
+    margin: -94 30 -73;
+    border: 11Q solid;
   }
 }
+* {
+  background: #4b4d88;
+  border-radius: var(--r, 1in 1in 0 0);
+}
+
 </style>
 ```
