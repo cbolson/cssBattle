@@ -24,7 +24,15 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
 ```html
 <p><p><p>
 <style>
-&{background:#6592CF;
+&{
+  background:#6592CF;
+  *{
+    --s: -70px/40px 200px repeat-y;
+    background:
+      radial-gradient(1q at 0%, #3F3642 30px, #0000 ) 342px var(--s),
+      radial-gradient(1q at 100%, #3F3642 30px, #0000 ) 2px var(--s);
+    
+  }
  p{
    margin:20 42;
    height:260;
@@ -51,7 +59,15 @@ corner-shape: notch;
 ```html
 <p><p><p>
 <style>
-&{background:#6592CF;
+&{
+  background:#6592CF;
+  *{
+    --s: -70px/40px 200px repeat-y;
+    background:
+      radial-gradient(1q at 0%, #3F3642 30px, #0000 ) 342px var(--s),
+      radial-gradient(1q at 100%, #3F3642 30px, #0000 ) 2px var(--s);
+    
+  }
  p{
    margin:20 42;
    height:260;
