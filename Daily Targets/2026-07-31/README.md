@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
 ## Code
 
 ```html
-<p><style>&{background:repeating-linear-gradient(90deg,#A8D38B 0 60px,#0000 0 80px)50%40px/220px 50vw space#6592CF;*{margin:20;height:60;border-radius:9in;background:linear-gradient(90deg,#3F3642 32q,#A8D38B 0 70vh,#0000 0 230px,#A8D38B 0 349q,#3F3642 0);*{scale:-1;margin:0;translate:0 50vw
+<p><style>&{background:repeating-linear-gradient(90deg,#A8D38B 0 60px,#0000 0 5pc)50%5ch/220px 50vw space#6592CF;*{margin:20;height:60;border-radius:9in;background:linear-gradient(90deg,#3F3642 32q,#A8D38B 0 70vh,#0000 0 230px,#A8D38B 0 349q,#3F3642 0);*{scale:-1;margin:0;translate:0 50vw
 ```
 
 ## Prettified code
@@ -34,9 +34,9 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
   background: repeating-linear-gradient(
       90deg,
       #a8d38b 0 60px,
-      transparent 0 80px
+      transparent 0 5pc
     )
-    50% 40px / 220px 50vw space #6592cf;
+    50% 5ch / 220px 50vw space #6592cf;
   * {
     margin: 20;
     height: 60;
