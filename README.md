@@ -46,12 +46,12 @@ Note - I have not yet complete all the challenges.
 </li>
 </ul>
 
-### Daily Targets (5)
+### Daily Targets (6)
 
 <ul>
 <li>
 <details>
-<summary><strong>July 2026 (5/30+)</strong></summary>
+<summary><strong>July 2026 (6/31)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-07-26/">Jul 26, 2026</a> (101 Characters)</li>
@@ -59,6 +59,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Daily%20Targets/2026-07-28/">Jul 28, 2026</a> (208 Characters)</li>
 <li><a href="./Daily%20Targets/2026-07-29/">Jul 29, 2026</a> (190 Characters)</li>
 <li><a href="./Daily%20Targets/2026-07-30/">Jul 30, 2026</a> (202 Characters)</li>
+<li><a href="./Daily%20Targets/2026-07-31/">Jul 31, 2026</a> (308 Characters)</li>
 </ul>
 </details>
 </li>
