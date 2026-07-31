@@ -22,32 +22,29 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
 ## Code
 
 ```html
-<p><style>&{background:radial-gradient(1q,#3F3642 32q,#6592CF)-25vw -50px/75vw 50vw;*{margin:20 50;background:#A8D38B;*{height:140;margin:0 130;color:6592CF;box-shadow:-130px 60px,130px 60px,-5ch 50px 0-10px,-5ch 130px 0-10px,5ch -10px 0-10px,5ch 70px 0-10px
+<style>&{background:radial-gradient(1Q,#3f3642 32Q,#6592cf)-25vw -50px/75vw 50vw fixed;margin:20 50;color:A8D38B;border-block:60px solid;*{margin:0 120;box-shadow:inset 1in 0,-5pc 0,5pc 0,-5ch 5pc 0-5vw#6592CF,5ch -5pc 0-5vw#6592CF
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
 & {
-  background: radial-gradient(1Q, #3f3642 32Q, #6592cf) -25vw -50px / 75vw 50vw;
+  background: radial-gradient(1Q, #3f3642 32Q, #6592cf) -25vw -50px / 75vw 50vw
+    fixed;
+  margin: 20 50;
+  color: A8D38B;
+  border-block: 60px solid;
   * {
-    margin: 20 50;
-    background: #a8d38b;
-    * {
-      height: 140;
-      margin: 0 130;
-      color: 6592CF;
-      box-shadow:
-        -130px 60px,
-        130px 60px,
-        -5ch 50px 0 -10px,
-        -5ch 130px 0 -10px,
-        5ch -10px 0 -10px,
-        5ch 70px 0 -10px;
-    }
+    margin: 0 120;
+    box-shadow:
+      inset 1in 0,
+      -5pc 0,
+      5pc 0,
+      -5ch 5pc 0 -5vw #6592cf,
+      5ch -5pc 0 -5vw #6592cf;
   }
 }
+
 </style>
 ```
