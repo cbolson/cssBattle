@@ -22,37 +22,39 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
 ## Code
 
 ```html
-<p><p><p><style>&{--p:/40px 200px repeat-y;--c:radial-gradient(1q at 100%,#3F3642 30px,#0000);background:var(--c)10px -50px var(--p)#6592CF;*{background:var(--c)2px -70px var(--p);scale:-1;p{margin:20 42;height:260;width:300;background:#A8D38B;border-radius:0 var(--f,120px)/0 200px;corner-shape:notch;+p{--f:40px;scale:1-1;width:140;margin:-280 42;+p{margin:20 202
+<p><style>&{border:20px solid#6592CF;border-width:20 90;background:repeating-linear-gradient(90deg,#A8D38B 0 60px,#0000 0 80px)#6592CF;*{margin:0-70;height:60;border-radius:9in;background:linear-gradient(90deg,#3F3642 30px,#A8D38B 0 210px,#0000 0 230px,#A8D38B 0 330px,#3F3642 0);*{scale:-1;margin:0;translate:0 200px
 ```
 
 ## Prettified code
 
 ```html
-<p><p><p>
+<p>
 <style>
 & {
-  --p: /40px 200px repeat-y;
-  --c: radial-gradient(1Q at 100%, #3f3642 30px, transparent);
-  background: var(--c) 10px -50px var(--p) #6592cf;
+  border: 20px solid #6592cf;
+  border-width: 20 90;
+  background: repeating-linear-gradient(
+      90deg,
+      #a8d38b 0 60px,
+      transparent 0 80px
+    )
+    #6592cf;
   * {
-    background: var(--c) 2px -70px var(--p);
-    scale: -1;
-    p {
-      margin: 20 42;
-      height: 260;
-      width: 300;
-      background: #a8d38b;
-      border-radius: 0 var(--f, 120px) / 0 200px;
-      corner-shape: notch;
-      + p {
-        --f: 40px;
-        scale: 1 -1;
-        width: 140;
-        margin: -280 42;
-        + p {
-          margin: 20 202;
-        }
-      }
+    margin: 0 -70;
+    height: 60;
+    border-radius: 9in;
+    background: linear-gradient(
+      90deg,
+      #3f3642 30px,
+      #a8d38b 0 210px,
+      transparent 0 230px,
+      #a8d38b 0 330px,
+      #3f3642 0
+    );
+    * {
+      scale: -1;
+      margin: 0;
+      translate: 0 200px;
     }
   }
 }
