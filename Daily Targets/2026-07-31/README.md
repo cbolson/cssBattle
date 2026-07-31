@@ -22,34 +22,30 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
 ## Code
 
 ```html
-<p><p><style>&{background:repeating-linear-gradient(90deg,#a8d38b 0 60px,#0000 0 5pc)50%5ch/55vw 50vw no-repeat#6592cf;p{margin:20 12 140;height:60;border-radius:9in;background:repeating-linear-gradient(90deg,#3f3642 0 32Q,#a8d38b 0 70vh,#0000 0 230px,#A8D38B 0 349q);+*{scale:-1
+<p><style>&{background:radial-gradient(1q,#3F3642 32q,#6592CF)-25vw -50px/75vw 50vw;*{margin:20 50;background:#A8D38B;*{height:140;margin:0 130;color:6592CF;box-shadow:-130px 60px,130px 60px,-5ch 50px 0-10px,-5ch 130px 0-10px,5ch -10px 0-10px,5ch 70px 0-10px
 ```
 
 ## Prettified code
 
 ```html
-<p><p>
+<p>
 <style>
 & {
-  background: repeating-linear-gradient(
-      90deg,
-      #a8d38b 0 60px,
-      transparent 0 5pc
-    )
-    50% 5ch / 55vw 50vw no-repeat #6592cf;
-  p {
-    margin: 20 12 140;
-    height: 60;
-    border-radius: 9in;
-    background: repeating-linear-gradient(
-      90deg,
-      #3f3642 0 32Q,
-      #a8d38b 0 70vh,
-      transparent 0 230px,
-      #a8d38b 0 349Q
-    );
-    + * {
-      scale: -1;
+  background: radial-gradient(1Q, #3f3642 32Q, #6592cf) -25vw -50px / 75vw 50vw;
+  * {
+    margin: 20 50;
+    background: #a8d38b;
+    * {
+      height: 140;
+      margin: 0 130;
+      color: 6592CF;
+      box-shadow:
+        -130px 60px,
+        130px 60px,
+        -5ch 50px 0 -10px,
+        -5ch 130px 0 -10px,
+        5ch -10px 0 -10px,
+        5ch 70px 0 -10px;
     }
   }
 }
