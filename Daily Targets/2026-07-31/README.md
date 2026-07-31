@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
 ## Code
 
 ```html
-<p><style>&{border:20px solid#6592CF;border-width:20 90;background:repeating-linear-gradient(90deg,#A8D38B 0 60px,#0000 0 80px)#6592CF;*{margin:0-70;height:60;border-radius:9in;background:linear-gradient(90deg,#3F3642 30px,#A8D38B 0 210px,#0000 0 230px,#A8D38B 0 330px,#3F3642 0);*{scale:-1;margin:0;translate:0 200px
+<p><style>&{background:repeating-linear-gradient(90deg,#A8D38B 0 60px,#0000 0 80px)50%40px/220px 50vw space#6592CF;*{margin:20;height:60;border-radius:9in;background:linear-gradient(90deg,#3F3642 32q,#A8D38B 0 210px,#0000 0 230px,#A8D38B 0 330px,#3F3642 0);*{scale:-1;margin:0;translate:0 50vw
 ```
 
 ## Prettified code
@@ -31,21 +31,19 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
 <p>
 <style>
 & {
-  border: 20px solid #6592cf;
-  border-width: 20 90;
   background: repeating-linear-gradient(
       90deg,
       #a8d38b 0 60px,
       transparent 0 80px
     )
-    #6592cf;
+    50% 40px / 220px 50vw space #6592cf;
   * {
-    margin: 0 -70;
+    margin: 20;
     height: 60;
     border-radius: 9in;
     background: linear-gradient(
       90deg,
-      #3f3642 30px,
+      #3f3642 32Q,
       #a8d38b 0 210px,
       transparent 0 230px,
       #a8d38b 0 330px,
@@ -54,7 +52,7 @@ Challenge: <https://cssbattle.dev/play/Fyddj98G3Aus7byaOz8c>
     * {
       scale: -1;
       margin: 0;
-      translate: 0 200px;
+      translate: 0 50vw;
     }
   }
 }
