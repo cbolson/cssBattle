@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/Zbbue9b0vZdg6WFTCh4C>
 ## Code
 
 ```html
-<style>&{box-shadow:0 0 0 9in#065840}*{margin:66 116;border-radius:0 53q;corner-shape:notch;background:#C3C3A8;*{margin:10;corner-shape:round
+<style>&{box-shadow:0 0 0 9in#065840;margin:66 116}*{*{--s:round;margin:10}background:#C3C3A8;border-radius:0 53q;corner-shape:var(--s,notch
 ```
 
 ## Prettified code
@@ -31,16 +31,16 @@ Challenge: <https://cssbattle.dev/play/Zbbue9b0vZdg6WFTCh4C>
 <style>
 & {
   box-shadow: 0 0 0 9in #065840;
+  margin: 66 116;
 }
 * {
-  margin: 66 116;
-  border-radius: 0 53Q;
-  corner-shape: notch;
-  background: #c3c3a8;
   * {
+    --s: round;
     margin: 10;
-    corner-shape: round;
   }
+  background: #c3c3a8;
+  border-radius: 0 53Q;
+  corner-shape: var(--s, notch);
 }
 
 </style>
