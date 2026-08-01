@@ -22,25 +22,24 @@ Challenge: <https://cssbattle.dev/play/Zbbue9b0vZdg6WFTCh4C>
 ## Code
 
 ```html
-<style>*{margin:66 166 29%29%;color:C3C3A8;box-shadow:inset 2in 0,53q 53q,0 0 0 21ch#065840;*{margin:10-40 9%60;scale:-1 1;border-radius:9in;font:0'
+<style>&{box-shadow:0 0 0 9in#065840}*{margin:66 116;border-radius:0 53q;corner-shape:notch;background:#C3C3A8;*{margin:10;corner-shape:round
 ```
 
 ## Prettified code
 
 ```html
 <style>
+& {
+  box-shadow: 0 0 0 9in #065840;
+}
 * {
-  margin: 66 166 29% 29%;
-  color: C3C3A8;
-  box-shadow:
-    inset 2in 0,
-    53Q 53Q,
-    0 0 0 21ch #065840;
+  margin: 66 116;
+  border-radius: 0 53Q;
+  corner-shape: notch;
+  background: #c3c3a8;
   * {
-    margin: 10 -40 9% 60;
-    scale: -1 1;
-    border-radius: 9in;
-    font: 0 "";
+    margin: 10;
+    corner-shape: round;
   }
 }
 

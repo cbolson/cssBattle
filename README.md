@@ -68,7 +68,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>August 2026 (1/1+)</strong></summary>
 
 <ul>
-<li><a href="./Daily%20Targets/2026-08-01/">Aug 1, 2026</a> (148 Characters)</li>
+<li><a href="./Daily%20Targets/2026-08-01/">Aug 1, 2026</a> (141 Characters)</li>
 </ul>
 </details>
 </li>
