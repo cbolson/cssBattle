@@ -22,28 +22,25 @@ Challenge: <https://cssbattle.dev/play/j5lNXe0bnIf95N6TxmQ7>
 ## Code
 
 ```html
-<p><style>&{background:#e05947;margin:40 100;border:70px dotted;color:EED9D9;>*{margin:-45;border-left:5vw solid;*{height:40;width:80;box-shadow:5vh 69Q
+<style>&{background:#e05947;color:EED9D9;margin:65 125;outline:70px dotted;outline-offset:-45px;border-left:5vw solid;>*{border:5vw solid;margin:65 35 65 15
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
 & {
   background: #e05947;
-  margin: 40 100;
-  border: 70px dotted;
   color: EED9D9;
+  margin: 65 125;
+  outline: 70px dotted;
+  outline-offset: -45px;
+  border-left: 5vw solid;
   > * {
-    margin: -45;
-    border-left: 5vw solid;
-    * {
-      height: 40;
-      width: 80;
-      box-shadow: 5vh 69Q;
-    }
+    border: 5vw solid;
+    margin: 65 35 65 15;
   }
 }
+
 </style>
 ```
