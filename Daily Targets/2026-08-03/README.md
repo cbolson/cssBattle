@@ -22,21 +22,19 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Code
 
 ```html
-<p><p r=90><p r=-45><h5 r=0>
+<p><p r=-45><p r=0><h5 r=0>
 <style>
 &,h5{
   *>*{
-    position:fixed;
-    inset: 0;
-    margin:auto;
+   
+    margin:125 82 -175;
     rotate:attr(r deg,45deg);
-    width:50;
-    height:220;
+    height:50;
     background:#415E88;
     clip-path:ellipse();
   }
   h5{
-    scale:.4 2;
+    scale:.09 9;
   }
   background:#F7EC7D;
  }
@@ -45,21 +43,19 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Prettified code
 
 ```html
-<p><p r=90><p r=-45><h5 r=0>
+<p><p r=-45><p r=0><h5 r=0>
 <style>
 &,h5{
   *>*{
-    position:fixed;
-    inset: 0;
-    margin:auto;
+   
+    margin:125 82 -175;
     rotate:attr(r deg,45deg);
-    width:50;
-    height:220;
+    height:50;
     background:#415E88;
     clip-path:ellipse();
   }
   h5{
-    scale:.4 2;
+    scale:.09 9;
   }
   background:#F7EC7D;
  }
