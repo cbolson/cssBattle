@@ -1,6 +1,6 @@
 # #26. Smiley
 
-Challenge: <https://cssbattle.dev/play/26>
+Challenge: <https://cssbattle.dev/leaderboard/target/26>
 
 ## Result
 
@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/26>
 ## Code
 
 ```html
-<style>*{background:radial-gradient(1q at bottom,#0000 5ch,#060F55 0 63q,#0000)0-50vw/50vw var(--b,#6592cf);*{--b:;scale:-1;margin:0 100
+<style>*{*{--b:;scale:-1;margin:0 100}background:radial-gradient(1q at bottom,#0000 5ch,#060F55 0 63q,#0000)0-50vw/50vw var(--b,#6592cf
 ```
 
 ## Prettified code
@@ -30,6 +30,11 @@ Challenge: <https://cssbattle.dev/play/26>
 ```html
 <style>
 * {
+  * {
+    --b:;
+    scale: -1;
+    margin: 0 100;
+  }
   background: radial-gradient(
       1Q at bottom,
       transparent 5ch,
@@ -37,11 +42,6 @@ Challenge: <https://cssbattle.dev/play/26>
       transparent
     )
     0 -50vw / 50vw var(--b, #6592cf);
-  * {
-    --b:;
-    scale: -1;
-    margin: 0 100;
-  }
 }
 
 </style>
