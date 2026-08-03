@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (12)
+### Battles (13)
 
 <ul>
 <li>
@@ -41,12 +41,13 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>Battle #4 (3)</strong></summary>
+<summary><strong>Battle #4 (4)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2323.%20Boxception/">#23. Boxception</a> (110 Characters)</li>
 <li><a href="./Battles/Battle%20%234/%2324.%20Switches/">#24. Switches</a> (173 Characters)</li>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a> (135 Characters)</li>
+<li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a> (161 Characters)</li>
 </ul>
 </details>
 </li>
