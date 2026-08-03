@@ -22,30 +22,55 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Code
 
 ```html
-<p r=90><p r=45><h5 r=-45><style>&,h5{*{position:fixed;inset:0;margin:auto;width:50;height:220;background:#415e88;border-radius:50%;rotate:attr(r deg,45deg)}h5{scale:.4 2}background:#f7ec7d
+<p><p r=90><p r=-45><h5 r=0>
+<style>
+&,h5{
+  p,h5{
+    position:fixed;
+    inset: 0;
+    margin:auto;
+    rotate:attr(r deg,45deg);
+  }
+  p{
+    width:50;
+    height:220;
+    background:#415E88;
+    clip-path:ellipse();
+    
+  } 
+  h5{
+    width:20;
+    height:220;
+    border-radius:0;
+  }
+  background:#F7EC7D;
+ }
 ```
 
 ## Prettified code
 
 ```html
-<p r=90><p r=45><h5 r=-45>
+<p><p r=90><p r=-45><h5 r=0>
 <style>
-&,
-h5 {
-  * {
-    position: fixed;
+&,h5{
+  p,h5{
+    position:fixed;
     inset: 0;
-    margin: auto;
-    width: 50;
-    height: 220;
-    background: #415e88;
-    border-radius: 50%;
-    rotate: attr(r deg, 45deg);
+    margin:auto;
+    rotate:attr(r deg,45deg);
   }
-  h5 {
-    scale: 0.4 2;
+  p{
+    width:50;
+    height:220;
+    background:#415E88;
+    clip-path:ellipse();
+    
+  } 
+  h5{
+    width:20;
+    height:220;
+    border-radius:0;
   }
-  background: #f7ec7d;
-}
-</style>
+  background:#F7EC7D;
+ }
 ```
