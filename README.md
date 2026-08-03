@@ -26,7 +26,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Battles/Battle%20%232/%2315.%20Overlap/">#15. Overlap</a> (109 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a> (153 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2317.%20Fidget%20Spinner/">#17. Fidget Spinner</a> (214 Characters)</li>
-<li><a href="./Battles/Battle%20%232/%2318.%20Matrix/">#18. Matrix</a> (225 Characters)</li>
+<li><a href="./Battles/Battle%20%232/%2318.%20Matrix/">#18. Matrix</a> (201 Characters)</li>
 </ul>
 </details>
 </li>
