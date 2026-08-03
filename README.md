@@ -14,9 +14,18 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (3)
+### Battles (4)
 
 <ul>
+<li>
+<details>
+<summary><strong>Battle #2 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a> (203 Characters)</li>
+</ul>
+</details>
+</li>
 <li>
 <details>
 <summary><strong>Battle #34 (1)</strong></summary>

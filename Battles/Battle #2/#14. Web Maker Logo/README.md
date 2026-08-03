@@ -1,0 +1,56 @@
+# #14. Web Maker Logo
+
+Challenge: <https://cssbattle.dev/play/14>
+
+## Result
+
+<table>
+	<tr>
+		<th width="50%">User Submission</th>
+		<th width="50%">Target</th>
+	</tr>
+	<tr>
+		<td width="50%" align="center">
+			<img src="./user.png" alt="User Submission" width="100%">
+		</td>
+		<td width="50%" align="center">
+			<img src="./target.png" alt="Target" width="100%">
+		</td>
+	</tr>
+</table>
+
+## Code
+
+```html
+<p><p><p><style>&{background:#F2F2B6;*{width:0;margin:85 80;border:75px solid#0000;color:FD4602;border-top:138q solid;*{color:FF6D00;margin:-130-95;+p{scale:-1;margin:-280 15;+p{margin:75 35;color:FD4602
+```
+
+## Prettified code
+
+```html
+<p><p><p>
+<style>
+& {
+  background: #f2f2b6;
+  * {
+    width: 0;
+    margin: 85 80;
+    border: 75px solid transparent;
+    color: FD4602;
+    border-top: 138Q solid;
+    * {
+      color: FF6D00;
+      margin: -130 -95;
+      + p {
+        scale: -1;
+        margin: -280 15;
+        + p {
+          margin: 75 35;
+          color: FD4602;
+        }
+      }
+    }
+  }
+}
+</style>
+```
