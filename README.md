@@ -24,7 +24,7 @@ Note - I have not yet complete all the challenges.
 <ul>
 <li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a> (198 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2315.%20Overlap/">#15. Overlap</a> (109 Characters)</li>
-<li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a> (162 Characters)</li>
+<li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a> (153 Characters)</li>
 </ul>
 </details>
 </li>
