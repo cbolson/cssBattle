@@ -22,41 +22,27 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Code
 
 ```html
-<p><p r=-45><p r=0><h5 r=0>
-<style>
-&,h5{
-  *>*{
-   
-    margin:125 82 -175;
-    rotate:attr(r deg,45deg);
-    height:50;
-    background:#415E88;
-    clip-path:ellipse();
-  }
-  h5{
-    scale:.09 9;
-  }
-  background:#F7EC7D;
- }
+<p><p r=-45><p r=45><h5><style>&,h5{*>*{margin:125 82-175;rotate:attr(r deg);height:50;background:#415E88;clip-path:ellipse()}h5{scale:.09 9}background:#F7EC7D
 ```
 
 ## Prettified code
 
 ```html
-<p><p r=-45><p r=0><h5 r=0>
+<p><p r=-45><p r=45><h5>
 <style>
-&,h5{
-  *>*{
-   
-    margin:125 82 -175;
-    rotate:attr(r deg,45deg);
-    height:50;
-    background:#415E88;
-    clip-path:ellipse();
+&,
+h5 {
+  * > * {
+    margin: 125 82 -175;
+    rotate: attr(r deg);
+    height: 50;
+    background: #415e88;
+    clip-path: ellipse();
   }
-  h5{
-    scale:.09 9;
+  h5 {
+    scale: 0.09 9;
   }
-  background:#F7EC7D;
- }
+  background: #f7ec7d;
+}
+</style>
 ```
