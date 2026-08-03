@@ -25,23 +25,18 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 <p><p r=90><p r=-45><h5 r=0>
 <style>
 &,h5{
-  p,h5{
+  *>*{
     position:fixed;
     inset: 0;
     margin:auto;
     rotate:attr(r deg,45deg);
-  }
-  p{
     width:50;
     height:220;
     background:#415E88;
     clip-path:ellipse();
-    
-  } 
+  }
   h5{
-    width:20;
-    height:220;
-    border-radius:0;
+    scale:.4 2;
   }
   background:#F7EC7D;
  }
@@ -53,23 +48,18 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 <p><p r=90><p r=-45><h5 r=0>
 <style>
 &,h5{
-  p,h5{
+  *>*{
     position:fixed;
     inset: 0;
     margin:auto;
     rotate:attr(r deg,45deg);
-  }
-  p{
     width:50;
     height:220;
     background:#415E88;
     clip-path:ellipse();
-    
-  } 
+  }
   h5{
-    width:20;
-    height:220;
-    border-radius:0;
+    scale:.4 2;
   }
   background:#F7EC7D;
  }
