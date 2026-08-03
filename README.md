@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (8)
+### Battles (9)
 
 <ul>
 <li>
@@ -27,6 +27,15 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a> (153 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2317.%20Fidget%20Spinner/">#17. Fidget Spinner</a> (214 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2318.%20Matrix/">#18. Matrix</a> (201 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #3 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%233/%2320.%20Ticket/">#20. Ticket</a> (187 Characters)</li>
 </ul>
 </details>
 </li>
