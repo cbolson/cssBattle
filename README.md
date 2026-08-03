@@ -45,7 +45,7 @@ Note - I have not yet complete all the challenges.
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2323.%20Boxception/">#23. Boxception</a> (110 Characters)</li>
-<li><a href="./Battles/Battle%20%234/%2324.%20Switches/">#24. Switches</a> (182 Characters)</li>
+<li><a href="./Battles/Battle%20%234/%2324.%20Switches/">#24. Switches</a> (173 Characters)</li>
 </ul>
 </details>
 </li>

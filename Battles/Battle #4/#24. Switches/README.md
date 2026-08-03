@@ -22,31 +22,29 @@ Challenge: <https://cssbattle.dev/play/24>
 ## Code
 
 ```html
-<p><style>&{background:#62306D;*{border-radius:9in;height:150;width:100;margin:50 80;color:AA445F;box-shadow:inset 0 53q,inset 2in 0#F7EC7D;*{scale:1-1;color:E38F66;translate:64q 53q
+<style>*{border-radius:9in;background:#62306d;height:150;width:100;margin:50 80;color:AA445F;box-shadow:inset 0 53Q,inset 2in 0#f7ec7d;*{scale:-1;color:E38F66;translate:60px
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
-& {
+* {
+  border-radius: 9in;
   background: #62306d;
+  height: 150;
+  width: 100;
+  margin: 50 80;
+  color: AA445F;
+  box-shadow:
+    inset 0 53Q,
+    inset 2in 0 #f7ec7d;
   * {
-    border-radius: 9in;
-    height: 150;
-    width: 100;
-    margin: 50 80;
-    color: AA445F;
-    box-shadow:
-      inset 0 53Q,
-      inset 2in 0 #f7ec7d;
-    * {
-      scale: 1 -1;
-      color: E38F66;
-      translate: 64Q 53Q;
-    }
+    scale: -1;
+    color: E38F66;
+    translate: 60px;
   }
 }
+
 </style>
 ```
