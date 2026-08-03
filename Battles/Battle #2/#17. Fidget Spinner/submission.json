@@ -2,7 +2,7 @@
   "challengeMode": "battle",
   "challengeId": "17",
   "challengeName": "#17. Fidget Spinner",
-  "challengeUrl": "https://cssbattle.dev/leaderboard/target/17",
+  "challengeUrl": "https://cssbattle.dev/play/17",
   "battleId": "2",
   "battleGroup": "Battle #2",
   "challengeLabel": "#17. Fidget Spinner",
@@ -10,8 +10,8 @@
   "battleStatus": null,
   "dailyDateIso": null,
   "dailyDateLabel": null,
-  "submittedAt": "2026-08-03T12:45:21.942Z",
-  "score": 649.14,
+  "submittedAt": "2026-08-03T13:38:55.416Z",
+  "score": 650.56,
   "matchPct": 100,
-  "characterCount": 220
+  "characterCount": 217
 }
