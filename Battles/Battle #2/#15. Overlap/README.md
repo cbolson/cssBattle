@@ -1,6 +1,6 @@
 # #15. Overlap
 
-Challenge: <https://cssbattle.dev/play/15>
+Challenge: <https://cssbattle.dev/leaderboard/target/15>
 
 ## Result
 
@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/15>
 ## Code
 
 ```html
-<style>&{border-radius:9in;background:#09042A;margin:75 175 75 75;box-shadow:inset 100px 0#7B3F61,100px 0#E78481
+<style>&{border-radius:9in;background:#09042a;margin:75 175 75 75;box-shadow:inset 25vw 0#7b3f61,25vw 0#e78481
 ```
 
 ## Prettified code
@@ -34,8 +34,8 @@ Challenge: <https://cssbattle.dev/play/15>
   background: #09042a;
   margin: 75 175 75 75;
   box-shadow:
-    inset 100px 0 #7b3f61,
-    100px 0 #e78481;
+    inset 25vw 0 #7b3f61,
+    25vw 0 #e78481;
 }
 
 </style>
