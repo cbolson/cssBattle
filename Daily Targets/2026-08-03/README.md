@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Code
 
 ```html
-<p><p r=-45><p r=45><h5><style>&,h5{*>*{margin:125 82-175;rotate:attr(r deg);height:50;background:#415E88;clip-path:ellipse()}h5{scale:.09 9}background:#F7EC7D
+<p><p r=-45><p r=45><h5><style>&,h5{*>*{margin:125 82-175;height:50;background:#415E88;border-radius:50%;rotate:attr(r deg)}h5{scale:.09 9}background:#F7EC7D
 ```
 
 ## Prettified code
@@ -34,10 +34,10 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 h5 {
   * > * {
     margin: 125 82 -175;
-    rotate: attr(r deg);
     height: 50;
     background: #415e88;
-    clip-path: ellipse();
+    border-radius: 50%;
+    rotate: attr(r deg);
   }
   h5 {
     scale: 0.09 9;
