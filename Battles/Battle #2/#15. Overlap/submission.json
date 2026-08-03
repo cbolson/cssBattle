@@ -2,7 +2,7 @@
   "challengeMode": "battle",
   "challengeId": "15",
   "challengeName": "#15. Overlap",
-  "challengeUrl": "https://cssbattle.dev/leaderboard/target/15",
+  "challengeUrl": "https://cssbattle.dev/play/15",
   "battleId": "2",
   "battleGroup": "Battle #2",
   "challengeLabel": "#15. Overlap",
@@ -10,8 +10,8 @@
   "battleStatus": null,
   "dailyDateIso": null,
   "dailyDateLabel": null,
-  "submittedAt": "2026-08-03T12:11:44.942Z",
-  "score": 740.2,
+  "submittedAt": "2026-08-03T12:14:10.959Z",
+  "score": 741.54,
   "matchPct": 100,
-  "characterCount": 110
+  "characterCount": 109
 }
