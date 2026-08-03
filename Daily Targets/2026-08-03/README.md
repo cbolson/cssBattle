@@ -22,26 +22,7 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Code
 
 ```html
-<p r=90><p r=45><h5 r=-45>
-<style>
-&{
-  background:#F7EC7D;
-  *{
-    position:fixed;
-    inset: 0;
-    margin:auto;
-    width:50;
-    height:220;
-    background:#415E88;
-    border-radius:50%;
-    rotate:attr(r deg,45deg);
-    
-  } 
-  h5{
-    background:#F7EC7D;
-    width:20
-  }
- }
+<p r=90><p r=45><h5 r=-45><style>&,h5{*{position:fixed;inset:0;margin:auto;width:50;height:220;background:#415e88;border-radius:50%;rotate:attr(r deg,45deg)}h5{scale:.4 2}background:#f7ec7d
 ```
 
 ## Prettified code
@@ -49,22 +30,22 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ```html
 <p r=90><p r=45><h5 r=-45>
 <style>
-&{
-  background:#F7EC7D;
-  *{
-    position:fixed;
+&,
+h5 {
+  * {
+    position: fixed;
     inset: 0;
-    margin:auto;
-    width:50;
-    height:220;
-    background:#415E88;
-    border-radius:50%;
-    rotate:attr(r deg,45deg);
-    
-  } 
-  h5{
-    background:#F7EC7D;
-    width:20
+    margin: auto;
+    width: 50;
+    height: 220;
+    background: #415e88;
+    border-radius: 50%;
+    rotate: attr(r deg, 45deg);
   }
- }
+  h5 {
+    scale: 0.4 2;
+  }
+  background: #f7ec7d;
+}
+</style>
 ```
