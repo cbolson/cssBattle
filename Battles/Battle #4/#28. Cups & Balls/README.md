@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/28>
 ## Code
 
 ```html
-<img><img><img><style>&{background:#1A4341;img{padding:25;border-radius:9in;color:#998235;box-shadow:62px 82px,68vw 82px#F3AC3C,33vw 38vw,202px 38vw#F3AC3C;+*{border-radius:9in 9in 0 0;box-shadow:82px 82px#F3AC3C,38vw 82px;+*{scale:-1;box-shadow:-43vw -38vw,38px -38vw#F3AC3C
+<img><img><img><style>&{background:#1A4341;img{padding:25;border-radius:9in;color:#998235;box-shadow:66q 87q,68vw 87q#F3AC3C,33vw 38vw,202px 38vw#F3AC3C;+*{border-radius:9in 9in 0 0;box-shadow:87q 87q#F3AC3C,38vw 87q;+*{scale:-1;box-shadow:-43vw -38vw,38px -38vw#F3AC3C
 ```
 
 ## Prettified code
@@ -37,15 +37,15 @@ Challenge: <https://cssbattle.dev/play/28>
     border-radius: 9in;
     color: #998235;
     box-shadow:
-      62px 82px,
-      68vw 82px #f3ac3c,
+      66Q 87Q,
+      68vw 87Q #f3ac3c,
       33vw 38vw,
       202px 38vw #f3ac3c;
     + * {
       border-radius: 9in 9in 0 0;
       box-shadow:
-        82px 82px #f3ac3c,
-        38vw 82px;
+        87Q 87Q #f3ac3c,
+        38vw 87Q;
       + * {
         scale: -1;
         box-shadow:
