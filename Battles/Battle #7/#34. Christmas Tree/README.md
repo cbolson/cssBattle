@@ -29,7 +29,7 @@ Challenge: <https://cssbattle.dev/play/34>
   p{
     background:#00A79D;
     height:100;
-    margin:150 70 -300;
+    margin:150 67 -300;
     clip-path:polygon(50%0,100% 100%,0 100%);
     +p{
       background:#F5C181;
@@ -51,7 +51,7 @@ Challenge: <https://cssbattle.dev/play/34>
   p{
     background:#00A79D;
     height:100;
-    margin:150 70 -300;
+    margin:150 67 -300;
     clip-path:polygon(50%0,100% 100%,0 100%);
     +p{
       background:#F5C181;
