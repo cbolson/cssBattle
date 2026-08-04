@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/37>
 ## Code
 
 ```html
-<p><p d><style>&{background:#6592cf;*,[d]{margin:25 75;height:250;*{scale:1.5.6;rotate:15deg;background:#6592CF;+*{scale:.3;margin:-275 0;rotate:30deg}}background:#243d83
+<p><p d><style>*{background:var(--b,#6592cf);*,[d]{margin:25 75;height:250;*{scale:1.5.6;rotate:15deg;--b:#6592cf;+*{scale:.3;margin:-275 0;rotate:30deg}}--b:#243d83
 ```
 
 ## Prettified code
@@ -30,8 +30,8 @@ Challenge: <https://cssbattle.dev/play/37>
 ```html
 <p><p d>
 <style>
-& {
-  background: #6592cf;
+* {
+  background: var(--b, #6592cf);
   *,
   [d] {
     margin: 25 75;
@@ -39,14 +39,14 @@ Challenge: <https://cssbattle.dev/play/37>
     * {
       scale: 1.5 0.6;
       rotate: 15deg;
-      background: #6592cf;
+      --b: #6592cf;
       + * {
         scale: 0.3;
         margin: -275 0;
         rotate: 30deg;
       }
     }
-    background: #243d83;
+    --b: #243d83;
   }
 }
 </style>
