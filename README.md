@@ -66,7 +66,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #6 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%236/%2331.%20Equals/">#31. Equals</a> (129 Characters)</li>
+<li><a href="./Battles/Battle%20%236/%2331.%20Equals/">#31. Equals</a> (133 Characters)</li>
 </ul>
 </details>
 </li>
