@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (14)
+### Battles (15)
 
 <ul>
 <li>
@@ -49,6 +49,15 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a> (135 Characters)</li>
 <li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a> (151 Characters)</li>
 <li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp; Balls</a> (260 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #5 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%235/%2329.%20Suffocate/">#29. Suffocate</a> (134 Characters)</li>
 </ul>
 </details>
 </li>
