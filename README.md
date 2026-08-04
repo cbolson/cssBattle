@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (18)
+### Battles (19)
 
 <ul>
 <li>
@@ -73,10 +73,11 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>Battle #7 (1)</strong></summary>
+<summary><strong>Battle #7 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a> (181 Characters)</li>
+<li><a href="./Battles/Battle%20%237/%2334.%20Christmas%20Tree/">#34. Christmas Tree</a> (248 Characters)</li>
 </ul>
 </details>
 </li>
