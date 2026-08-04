@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (16)
+### Battles (17)
 
 <ul>
 <li>
@@ -63,10 +63,11 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>Battle #6 (1)</strong></summary>
+<summary><strong>Battle #6 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%236/%2331.%20Equals/">#31. Equals</a> (131 Characters)</li>
+<li><a href="./Battles/Battle%20%236/%2332.%20Band-aid/">#32. Band-aid</a> (127 Characters)</li>
 </ul>
 </details>
 </li>
