@@ -76,7 +76,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #7 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a> (182 Characters)</li>
+<li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a> (181 Characters)</li>
 </ul>
 </details>
 </li>
