@@ -22,23 +22,47 @@ Challenge: <https://cssbattle.dev/play/46>
 ## Code
 
 ```html
-<style>*{background:#293462;*{margin:50;clip-path:circle();--g:,#FE5F55 90deg,#0000 0;background:conic-gradient(from 135deg at 191px 60px var(--g)),conic-gradient(from 135deg at 80px 130px var(--g))#FFF1C1
+<img>
+<style>
+& {
+  background:#293462;
+  >*{
+    margin: 50;
+    clip-path:circle();
+    background:#FFF1C1;
+    *{
+      padding:50;
+      rotate:45deg;
+      color:FE5F55;
+      box-shadow: 
+        127px 85px,
+        186px -14px 0 32Q
+    }
+
+}
+
+</style>
 ```
 
 ## Prettified code
 
 ```html
+<img>
 <style>
-* {
-  background: #293462;
-  * {
+& {
+  background:#293462;
+  >*{
     margin: 50;
-    clip-path: circle();
-    --g: , #fe5f55 90deg, transparent 0;
-    background:
-      conic-gradient(from 135deg at 191px 60px var(--g)),
-      conic-gradient(from 135deg at 80px 130px var(--g)) #fff1c1;
-  }
+    clip-path:circle();
+    background:#FFF1C1;
+    *{
+      padding:50;
+      rotate:45deg;
+      color:FE5F55;
+      box-shadow: 
+        127px 85px,
+        186px -14px 0 32Q
+    }
 }
 
 </style>
