@@ -100,7 +100,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #9 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%239/%2345.%20Magical%20Tree/">#45. Magical Tree</a> (199 Characters)</li>
+<li><a href="./Battles/Battle%20%239/%2345.%20Magical%20Tree/">#45. Magical Tree</a> (189 Characters)</li>
 </ul>
 </details>
 </li>
