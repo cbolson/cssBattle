@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/46>
 ## Code
 
 ```html
-<p><style>&{background:#293462;>*{clip-path:circle(25vw);rotate:45deg;*{color:FE5F55;box-shadow:53vw 278q 0 53q,68vw 41vw 0 5pc,0 0 0 9in#FFF1C1
+<p><style>&{background:#293462;>*{rotate:45deg;*{color:FE5F55;box-shadow:53vw 278q 0 53q,68vw 41vw 0 5pc,0 0 0 9in#FFF1C1}clip-path:circle(25vw
 ```
 
 ## Prettified code
@@ -33,7 +33,6 @@ Challenge: <https://cssbattle.dev/play/46>
 & {
   background: #293462;
   > * {
-    clip-path: circle(25vw);
     rotate: 45deg;
     * {
       color: FE5F55;
@@ -42,6 +41,7 @@ Challenge: <https://cssbattle.dev/play/46>
         68vw 41vw 0 5pc,
         0 0 0 9in #fff1c1;
     }
+    clip-path: circle(25vw);
   }
 }
 </style>
