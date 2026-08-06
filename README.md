@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (22)
+### Battles (23)
 
 <ul>
 <li>
@@ -81,6 +81,15 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Battles/Battle%20%237/%2335.%20Ice%20Cream/">#35. Ice Cream</a> (206 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2337.%20Tunnel/">#37. Tunnel</a> (165 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2340.%20Letter%20B/">#40. Letter B</a> (110 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #8 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%238/%2342.%20Baby/">#42. Baby</a> (250 Characters)</li>
 </ul>
 </details>
 </li>
