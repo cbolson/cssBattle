@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (23)
+### Battles (24)
 
 <ul>
 <li>
@@ -86,10 +86,11 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>Battle #8 (1)</strong></summary>
+<summary><strong>Battle #8 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%238/%2342.%20Baby/">#42. Baby</a> (250 Characters)</li>
+<li><a href="./Battles/Battle%20%238/%2343.%20Wrench/">#43. Wrench</a> (159 Characters)</li>
 </ul>
 </details>
 </li>
