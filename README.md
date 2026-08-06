@@ -110,7 +110,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #10 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2310/%2348.%20Wash%20Your%20Hands/">#48. Wash Your Hands</a> (139 Characters)</li>
+<li><a href="./Battles/Battle%20%2310/%2348.%20Wash%20Your%20Hands/">#48. Wash Your Hands</a> (136 Characters)</li>
 </ul>
 </details>
 </li>

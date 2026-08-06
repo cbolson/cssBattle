@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/48>
 ## Code
 
 ```html
-<style>*{border-radius:20px}&{background:#FE5F55;margin:90 100 110;box-shadow:0 20px#A64942,0 0 0 9in#293462;*{background:#A64942;margin:30
+<style>*{border-radius:21q}&{background:#fe5f55;margin:90 25%110;box-shadow:0 21q#a64942,0 0 0 9in#293462;*{background:#a64942;margin:30
 ```
 
 ## Prettified code
@@ -30,13 +30,13 @@ Challenge: <https://cssbattle.dev/play/48>
 ```html
 <style>
 * {
-  border-radius: 20px;
+  border-radius: 21Q;
 }
 & {
   background: #fe5f55;
-  margin: 90 100 110;
+  margin: 90 25% 110;
   box-shadow:
-    0 20px #a64942,
+    0 21Q #a64942,
     0 0 0 9in #293462;
   * {
     background: #a64942;
