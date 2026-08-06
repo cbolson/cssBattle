@@ -22,27 +22,25 @@ Challenge: <https://cssbattle.dev/play/46>
 ## Code
 
 ```html
-<img><style>&{background:#293462;>*{margin:50;clip-path:circle();background:#FFF1C1;*{padding:50;rotate:45deg;color:FE5F55;box-shadow:134Q 90Q,62vh -14px 0 32Q
+<p><style>&{background:#293462;>*{clip-path:circle(25vw);rotate:45deg;*{color:FE5F55;box-shadow:53vw 278q 0 53q,68vw 41vw 0 5pc,0 0 0 9in#FFF1C1
 ```
 
 ## Prettified code
 
 ```html
-<img>
+<p>
 <style>
 & {
   background: #293462;
   > * {
-    margin: 50;
-    clip-path: circle();
-    background: #fff1c1;
+    clip-path: circle(25vw);
+    rotate: 45deg;
     * {
-      padding: 50;
-      rotate: 45deg;
       color: FE5F55;
       box-shadow:
-        134Q 90Q,
-        62vh -14px 0 32Q;
+        53vw 278Q 0 53Q,
+        68vw 41vw 0 5pc,
+        0 0 0 9in #fff1c1;
     }
   }
 }
