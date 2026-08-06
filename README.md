@@ -78,7 +78,7 @@ Note - I have not yet complete all the challenges.
 <ul>
 <li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a> (181 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2334.%20Christmas%20Tree/">#34. Christmas Tree</a> (248 Characters)</li>
-<li><a href="./Battles/Battle%20%237/%2335.%20Ice%20Cream/">#35. Ice Cream</a> (215 Characters)</li>
+<li><a href="./Battles/Battle%20%237/%2335.%20Ice%20Cream/">#35. Ice Cream</a> (211 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2337.%20Tunnel/">#37. Tunnel</a> (165 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2340.%20Letter%20B/">#40. Letter B</a> (110 Characters)</li>
 </ul>
