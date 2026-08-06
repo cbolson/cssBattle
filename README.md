@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (27)
+### Battles (28)
 
 <ul>
 <li>
@@ -102,6 +102,15 @@ Note - I have not yet complete all the challenges.
 <ul>
 <li><a href="./Battles/Battle%20%239/%2345.%20Magical%20Tree/">#45. Magical Tree</a> (194 Characters)</li>
 <li><a href="./Battles/Battle%20%239/%2346.%20Mountains/">#46. Mountains</a> (143 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #10 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2310/%2348.%20Wash%20Your%20Hands/">#48. Wash Your Hands</a> (139 Characters)</li>
 </ul>
 </details>
 </li>
