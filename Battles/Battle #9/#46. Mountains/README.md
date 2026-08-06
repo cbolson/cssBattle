@@ -22,26 +22,7 @@ Challenge: <https://cssbattle.dev/play/46>
 ## Code
 
 ```html
-<img>
-<style>
-& {
-  background:#293462;
-  >*{
-    margin: 50;
-    clip-path:circle();
-    background:#FFF1C1;
-    *{
-      padding:50;
-      rotate:45deg;
-      color:FE5F55;
-      box-shadow: 
-        127px 85px,
-        186px -14px 0 32Q
-    }
-
-}
-
-</style>
+<img><style>&{background:#293462;>*{margin:50;clip-path:circle();background:#FFF1C1;*{padding:50;rotate:45deg;color:FE5F55;box-shadow:134Q 90Q,62vh -14px 0 32Q
 ```
 
 ## Prettified code
@@ -50,20 +31,20 @@ Challenge: <https://cssbattle.dev/play/46>
 <img>
 <style>
 & {
-  background:#293462;
-  >*{
+  background: #293462;
+  > * {
     margin: 50;
-    clip-path:circle();
-    background:#FFF1C1;
-    *{
-      padding:50;
-      rotate:45deg;
-      color:FE5F55;
-      box-shadow: 
-        127px 85px,
-        186px -14px 0 32Q
+    clip-path: circle();
+    background: #fff1c1;
+    * {
+      padding: 50;
+      rotate: 45deg;
+      color: FE5F55;
+      box-shadow:
+        134Q 90Q,
+        62vh -14px 0 32Q;
     }
+  }
 }
-
 </style>
 ```
