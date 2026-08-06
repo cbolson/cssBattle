@@ -1,6 +1,6 @@
 # #35. Ice Cream
 
-Challenge: <https://cssbattle.dev/play/35>
+Challenge: <https://cssbattle.dev/leaderboard/target/35>
 
 ## Result
 
@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/35>
 ## Code
 
 ```html
-<p><style>&{background:#293462;*{background:#fff1c1;margin:50 150 100;*{--r:0 0 11Q 11Q;margin:0 35;height:40;border-top:11q solid#a64942;background:#fe5f55;translate:0 50vh}border-radius:var(--r,53Q 53Q 5vw 5vw
+<p><style>*{background:var(--b,#293462);*{--b:#fff1c1;margin:50 150 100;*{--b:#fe5f55;--r:0 0 11Q 11Q;margin:0 35;height:40;border-top:11q solid#a64942;translate:0 50vh}border-radius:var(--r,53Q 53Q 5vw 5vw
 ```
 
 ## Prettified code
@@ -30,17 +30,17 @@ Challenge: <https://cssbattle.dev/play/35>
 ```html
 <p>
 <style>
-& {
-  background: #293462;
+* {
+  background: var(--b, #293462);
   * {
-    background: #fff1c1;
+    --b: #fff1c1;
     margin: 50 150 100;
     * {
+      --b: #fe5f55;
       --r: 0 0 11Q 11Q;
       margin: 0 35;
       height: 40;
       border-top: 11Q solid #a64942;
-      background: #fe5f55;
       translate: 0 50vh;
     }
     border-radius: var(--r, 53Q 53Q 5vw 5vw);
