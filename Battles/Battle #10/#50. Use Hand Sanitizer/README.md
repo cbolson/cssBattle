@@ -22,45 +22,46 @@ Challenge: <https://cssbattle.dev/play/50>
 ## Code
 
 ```html
-<p><p><p><p><style>*{margin:110 150 50;border-radius:2.5ch;border-block:solid 3.1lh#f3ac3c}&{border-bottom:solid+90Q#998235;>*{background:#1a4341;font:50%/83%a;margin:-75 25 0;p{margin:-50 15;+p{margin:0-75 0 105;+p{margin:-40-75 0-25;font:99%/43%a;+p{margin:60%15 0;color:998235;box-shadow:95Q 0,95Q 32Q,-25px 55px 0 5vh,25px 58Q 0 5vh#f3ac3c
+<s><o><a><p><style>*{background:#1A4341;color:998235}s,o,a,p{position:fixed;--r:10q;padding:var(--p,25);--x:-5%25}o,p{--p:5%10;--x:-55-10;box-shadow:var(--s,95q -11q)#F3AC3C}a{--p:10 75;--x:-30-50}p{--p:10;--x:-10;--s:-50px 111q 0 15px,69q 53q,69q 84q,0 111q 0 15px}*>*{margin:var(--x,110 150 50);border-radius:var(--r,22q);background:linear-gradient(#F3AC3C,55q,#998235 0
 ```
 
 ## Prettified code
 
 ```html
-<p><p><p><p>
+<s><o><a><p>
 <style>
 * {
-  margin: 110 150 50;
-  border-radius: 2.5ch;
-  border-block: solid 3.1lh #f3ac3c;
+  background: #1a4341;
+  color: 998235;
 }
-& {
-  border-bottom: solid +90Q #998235;
-  > * {
-    background: #1a4341;
-    font: 50% / 83% a;
-    margin: -75 25 0;
-    p {
-      margin: -50 15;
-      + p {
-        margin: 0 -75 0 105;
-        + p {
-          margin: -40 -75 0 -25;
-          font: 99% / 43% a;
-          + p {
-            margin: 60% 15 0;
-            color: 998235;
-            box-shadow:
-              95Q 0,
-              95Q 32Q,
-              -25px 55px 0 5vh,
-              25px 58Q 0 5vh #f3ac3c;
-          }
-        }
-      }
-    }
-  }
+s,
+o,
+a,
+p {
+  position: fixed;
+  --r: 10Q;
+  padding: var(--p, 25);
+  --x: -5% 25;
+}
+o,
+p {
+  --p: 5% 10;
+  --x: -55 -10;
+  box-shadow: var(--s, 95Q -11Q) #f3ac3c;
+}
+a {
+  --p: 10 75;
+  --x: -30 -50;
+}
+p {
+  --p: 10;
+  --x: -10;
+  --s: -50px 111Q 0 15px, 69Q 53Q, 69Q 84Q, 0 111Q 0 15px;
+}
+* > * {
+  margin: var(--x, 110 150 50);
+  border-radius: var(--r, 22Q);
+  background: linear-gradient(#f3ac3c, 55Q, #998235 0);
 }
 </style>
 ```
