@@ -22,51 +22,40 @@ Challenge: <https://cssbattle.dev/play/50>
 ## Code
 
 ```html
-<p><p><p><p><p><style>&{background:#1a4341;*{margin:110 150;border-radius:5vw;height:140;background:linear-gradient(#f3ac3c 50px,#998235 0);*{position:fixed;border-radius:10px;background:#f3ac3c;height:40;width:50;top:-20;left:25;+*{top:-60;left:0;height:20;width:150;+*{height:50;width:20;left:40;+*{height:40;left:130;+*{height:20;top:-10;color:#998235;box-shadow:inset 1in 0,0 30px,-16ex 58q 0 5vh#998235,-69q 58q 0 5vh#f3ac3c
+<p><p><p><p><style>*{margin:110 150 50;border-radius:2.5ch;border-block:solid 3.1lh#f3ac3c}&{border-bottom:solid+90Q#998235;>*{background:#1a4341;font:50%/83%a;margin:-75 25 0;p{margin:-50 15;+p{margin:0-75 0 105;+p{margin:-40-75 0-25;font:99%/43%a;+p{margin:60%15 0;color:998235;box-shadow:95Q 0,95Q 32Q,-25px 55px 0 5vh,25px 58Q 0 5vh#f3ac3c
 ```
 
 ## Prettified code
 
 ```html
-<p><p><p><p><p>
+<p><p><p><p>
 <style>
+* {
+  margin: 110 150 50;
+  border-radius: 2.5ch;
+  border-block: solid 3.1lh #f3ac3c;
+}
 & {
-  background: #1a4341;
-  * {
-    margin: 110 150;
-    border-radius: 5vw;
-    height: 140;
-    background: linear-gradient(#f3ac3c 50px, #998235 0);
-    * {
-      position: fixed;
-      border-radius: 10px;
-      background: #f3ac3c;
-      height: 40;
-      width: 50;
-      top: -20;
-      left: 25;
-      + * {
-        top: -60;
-        left: 0;
-        height: 20;
-        width: 150;
-        + * {
-          height: 50;
-          width: 20;
-          left: 40;
-          + * {
-            height: 40;
-            left: 130;
-            + * {
-              height: 20;
-              top: -10;
-              color: #998235;
-              box-shadow:
-                inset 1in 0,
-                0 30px,
-                -16ex 58Q 0 5vh #998235,
-                -69Q 58Q 0 5vh #f3ac3c;
-            }
+  border-bottom: solid +90Q #998235;
+  > * {
+    background: #1a4341;
+    font: 50% / 83% a;
+    margin: -75 25 0;
+    p {
+      margin: -50 15;
+      + p {
+        margin: 0 -75 0 105;
+        + p {
+          margin: -40 -75 0 -25;
+          font: 99% / 43% a;
+          + p {
+            margin: 60% 15 0;
+            color: 998235;
+            box-shadow:
+              95Q 0,
+              95Q 32Q,
+              -25px 55px 0 5vh,
+              25px 58Q 0 5vh #f3ac3c;
           }
         }
       }
