@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (28)
+### Battles (29)
 
 <ul>
 <li>
@@ -107,10 +107,11 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>Battle #10 (1)</strong></summary>
+<summary><strong>Battle #10 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%2310/%2348.%20Wash%20Your%20Hands/">#48. Wash Your Hands</a> (136 Characters)</li>
+<li><a href="./Battles/Battle%20%2310/%2350.%20Use%20Hand%20Sanitizer/">#50. Use Hand Sanitizer</a> (429 Characters)</li>
 </ul>
 </details>
 </li>
