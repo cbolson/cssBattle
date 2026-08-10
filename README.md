@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (29)
+### Battles (30)
 
 <ul>
 <li>
@@ -121,6 +121,15 @@ Note - I have not yet complete all the challenges.
 
 <ul>
 <li><a href="./Battles/Battle%20%2334/%23222.%20Rocket/">#222. Rocket</a> (202 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #37 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2337/%23246.%20Limbs/">#246. Limbs</a> (206 Characters)</li>
 </ul>
 </details>
 </li>
