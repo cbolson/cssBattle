@@ -22,24 +22,20 @@ Challenge: <https://cssbattle.dev/play/h56uVgyaWQ12YfY9fLNi>
 ## Code
 
 ```html
-<style>&{background:radial-gradient(1q at top,#144650 35px,#0000)-110px 0/310px repeat-x,radial-gradient(1q at bottom,#144650 35px,#0000)-110px 0/310px repeat-x#F3AC3C;*{margin:130 50;background:radial-gradient(1q,#144650 35px,#0000)-15px 0/110px repeat-x
+<style>*{--c:radial-gradient(1q,#144650 37q,#0000);*{--p:-5vh 0/110px;margin:130 50}background:var(--c)var(--p,-110px -50vh/328q 75vw#f3ac3c
 ```
 
 ## Prettified code
 
 ```html
 <style>
-& {
-  background:
-    radial-gradient(1Q at top, #144650 35px, transparent) -110px 0 / 310px
-      repeat-x,
-    radial-gradient(1Q at bottom, #144650 35px, transparent) -110px 0 / 310px
-      repeat-x #f3ac3c;
+* {
+  --c: radial-gradient(1Q, #144650 37Q, transparent);
   * {
+    --p: -5vh 0 / 110px;
     margin: 130 50;
-    background: radial-gradient(1Q, #144650 35px, transparent) -15px 0 / 110px
-      repeat-x;
   }
+  background: var(--c) var(--p, -110px -50vh / 328Q 75vw #f3ac3c);
 }
 
 </style>
