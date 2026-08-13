@@ -129,7 +129,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #37 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2337/%23246.%20Limbs/">#246. Limbs</a> (196 Characters)</li>
+<li><a href="./Battles/Battle%20%2337/%23246.%20Limbs/">#246. Limbs</a> (195 Characters)</li>
 </ul>
 </details>
 </li>
