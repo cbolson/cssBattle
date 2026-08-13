@@ -22,30 +22,29 @@ Challenge: <https://cssbattle.dev/play/246>
 ## Code
 
 ```html
-<img><style>&{background:#333;*{background:#EEE}&>*{margin:35 65 0 43;height:128;border-radius:0 0 69q 69q;-webkit-box-reflect:below -5vw}img{padding:60 32;margin:-100 64;border:solid#333;border-width:44 50
+<p><style>&{background:#333;body{margin:35 65 140 43;border-radius:0 0 59px 59px;-webkit-box-reflect:below -14px}*{background:#EEE;*{height:100;width:64;translate:38vh -9vw;box-shadow:0-6px 0 53q#333
 ```
 
 ## Prettified code
 
 ```html
-<img>
+<p>
 <style>
 & {
   background: #333;
+  body {
+    margin: 35 65 140 43;
+    border-radius: 0 0 59px 59px;
+    -webkit-box-reflect: below -14px;
+  }
   * {
     background: #eee;
-  }
-  & > * {
-    margin: 35 65 0 43;
-    height: 128;
-    border-radius: 0 0 69Q 69Q;
-    -webkit-box-reflect: below -5vw;
-  }
-  img {
-    padding: 60 32;
-    margin: -100 64;
-    border: solid #333;
-    border-width: 44 50;
+    * {
+      height: 100;
+      width: 64;
+      translate: 38vh -9vw;
+      box-shadow: 0 -6px 0 53Q #333;
+    }
   }
 }
 </style>
