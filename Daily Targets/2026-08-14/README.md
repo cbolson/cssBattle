@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/tX0iC11qNcPozRZ9qhRO>
 ## Code
 
 ```html
-<style>&{box-shadow:0 0 0 9in#6D1477;margin:0 65;background:radial-gradient(1q,#F5E3B5 5ch,#6D1477)0/5lh;*{margin:110 95;background:radial-gradient(1q,#6D1477 5vw,#F5E3B5);color:6D1477;box-shadow:-5lh 0 0-5vw,5lh 0 0-5vw
+<style>&{border:65px solid#6D1477;background:radial-gradient(.94px,#F5E3B5 5ch,#6D1477)0/5lh;*{margin:45 95;background:radial-gradient(.94px,#6D1477 5vw,#F5E3B5);color:6D1477;box-shadow:-5lh 0 0-5vw,5lh 0 0-5vw
 ```
 
 ## Prettified code
@@ -30,12 +30,11 @@ Challenge: <https://cssbattle.dev/play/tX0iC11qNcPozRZ9qhRO>
 ```html
 <style>
 & {
-  box-shadow: 0 0 0 9in #6d1477;
-  margin: 0 65;
-  background: radial-gradient(1Q, #f5e3b5 5ch, #6d1477) 0 / 5lh;
+  border: 65px solid #6d1477;
+  background: radial-gradient(0.94px, #f5e3b5 5ch, #6d1477) 0 / 5lh;
   * {
-    margin: 110 95;
-    background: radial-gradient(1Q, #6d1477 5vw, #f5e3b5);
+    margin: 45 95;
+    background: radial-gradient(0.94px, #6d1477 5vw, #f5e3b5);
     color: 6D1477;
     box-shadow:
       -5lh 0 0 -5vw,
