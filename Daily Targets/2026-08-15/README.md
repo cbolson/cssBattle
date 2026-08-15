@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/qdiV2eKiBihdqV4XlG9i>
 ## Code
 
 ```html
-<dt><p><style>&{background:#FFF;>*{border-radius:5ch}*{background:#394257;margin:75 125;corner-shape:scoop;height:150;*{width:70;height:250;background:linear-gradient(#D9BB61 5ch,#0000 0 70vh,#D9BB61 0);offset:ray(0deg
+<dt><p><style>*{background:var(--b,#FFF)}&>*{--b:#394257;border-radius:5ch;corner-shape:scoop;margin:75 125;height:150;*{--b:linear-gradient(#D9BB61 5ch,#0000 0 70vh,#D9BB61 0);width:70;height:250;offset:ray(0deg
 ```
 
 ## Prettified code
@@ -30,22 +30,20 @@ Challenge: <https://cssbattle.dev/play/qdiV2eKiBihdqV4XlG9i>
 ```html
 <dt><p>
 <style>
-& {
-  background: #fff;
-  > * {
-    border-radius: 5ch;
-  }
+* {
+  background: var(--b, #fff);
+}
+& > * {
+  --b: #394257;
+  border-radius: 5ch;
+  corner-shape: scoop;
+  margin: 75 125;
+  height: 150;
   * {
-    background: #394257;
-    margin: 75 125;
-    corner-shape: scoop;
-    height: 150;
-    * {
-      width: 70;
-      height: 250;
-      background: linear-gradient(#d9bb61 5ch, transparent 0 70vh, #d9bb61 0);
-      offset: ray(0deg);
-    }
+    --b: linear-gradient(#d9bb61 5ch, transparent 0 70vh, #d9bb61 0);
+    width: 70;
+    height: 250;
+    offset: ray(0deg);
   }
 }
 </style>
