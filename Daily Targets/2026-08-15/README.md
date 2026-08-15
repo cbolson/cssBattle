@@ -22,29 +22,27 @@ Challenge: <https://cssbattle.dev/play/qdiV2eKiBihdqV4XlG9i>
 ## Code
 
 ```html
-<dt><p><style>*{background:var(--b,#FFF)}&>*{--b:#394257;border-radius:5ch;corner-shape:scoop;margin:75 125;height:150;*{--b:linear-gradient(#D9BB61 5ch,#0000 0 70vh,#D9BB61 0);width:70;height:250;offset:ray(0deg
+<style>&{background:#fff;*{border:10px solid#FFF;margin:65 115;background:radial-gradient(1q,#FFF 5ch,#394257)75px 75px;color:D9BB61;box-shadow:-5lh 0 0-50px,5lh 0 0-50px,0 5lh 0-50px,0-5lh 0-50px
 ```
 
 ## Prettified code
 
 ```html
-<dt><p>
 <style>
-* {
-  background: var(--b, #fff);
-}
-& > * {
-  --b: #394257;
-  border-radius: 5ch;
-  corner-shape: scoop;
-  margin: 75 125;
-  height: 150;
+& {
+  background: #fff;
   * {
-    --b: linear-gradient(#d9bb61 5ch, transparent 0 70vh, #d9bb61 0);
-    width: 70;
-    height: 250;
-    offset: ray(0deg);
+    border: 10px solid #fff;
+    margin: 65 115;
+    background: radial-gradient(1Q, #fff 5ch, #394257) 75px 75px;
+    color: D9BB61;
+    box-shadow:
+      -5lh 0 0 -50px,
+      5lh 0 0 -50px,
+      0 5lh 0 -50px,
+      0 -5lh 0 -50px;
   }
 }
+
 </style>
 ```
