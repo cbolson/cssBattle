@@ -154,7 +154,7 @@ Note - I have not yet complete all the challenges.
 </li>
 </ul>
 
-### Daily Targets (23)
+### Daily Targets (24)
 
 <ul>
 <li>
@@ -173,7 +173,7 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>August 2026 (17/17+)</strong></summary>
+<summary><strong>August 2026 (18/18+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-08-01/">Aug 1, 2026</a> (140 Characters)</li>
@@ -193,6 +193,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Daily%20Targets/2026-08-15/">Aug 15, 2026</a> (175 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-16/">Aug 16, 2026</a> (190 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-17/">Aug 17, 2026</a> (137 Characters)</li>
+<li><a href="./Daily%20Targets/2026-08-18/">Aug 18, 2026</a> (224 Characters)</li>
 </ul>
 </details>
 </li>
