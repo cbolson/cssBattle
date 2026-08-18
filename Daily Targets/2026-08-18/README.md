@@ -22,22 +22,21 @@ Challenge: <https://cssbattle.dev/play/OqjzeCZTtlVTfqqvKCRg>
 ## Code
 
 ```html
-<p><style>&,p{background:#51a499;>*{*{margin:0 80;height:40;box-shadow:0 40vw#51A499}margin:50 100;background:63q 0/100%60%conic-gradient(at 5pc 5pc,#282828 75%,#eac049 0
+<p><p><style>&,p{background:#51a499;>*{*{margin:0 80 120;height:40}margin:50 100;background:63Q 0/100%60%conic-gradient(at 5pc 5pc,#282828 75%,#eac049 0
 ```
 
 ## Prettified code
 
 ```html
-<p>
+<p><p>
 <style>
 &,
 p {
   background: #51a499;
   > * {
     * {
-      margin: 0 80;
+      margin: 0 80 120;
       height: 40;
-      box-shadow: 0 40vw #51a499;
     }
     margin: 50 100;
     background: 63Q 0 / 100% 60%
