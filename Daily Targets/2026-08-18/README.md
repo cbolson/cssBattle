@@ -22,22 +22,27 @@ Challenge: <https://cssbattle.dev/play/OqjzeCZTtlVTfqqvKCRg>
 ## Code
 
 ```html
-<style>&{background:#51A499;*{margin:50 100;background:conic-gradient(#51a499 25%,#0000 0)5ch -5pc/5pc 60vw repeat-y,-5vh 0/164Q 60%conic-gradient(at 75px 5pc,#eac049 25%,#282828 0
+<p><style>&,p{background:#51a499;>*{*{margin:0 80;height:40;box-shadow:0 40vw#51A499}margin:50 100;background:60px 0/50vw 60%conic-gradient(at 5pc 5pc,#282828 75%,#eac049 0
 ```
 
 ## Prettified code
 
 ```html
+<p>
 <style>
-& {
+&,
+p {
   background: #51a499;
-  * {
+  > * {
+    * {
+      margin: 0 80;
+      height: 40;
+      box-shadow: 0 40vw #51a499;
+    }
     margin: 50 100;
-    background:
-      conic-gradient(#51a499 25%, transparent 0) 5ch -5pc / 5pc 60vw repeat-y,
-      -5vh 0 / 164Q 60% conic-gradient(at 75px 5pc, #eac049 25%, #282828 0);
+    background: 60px 0 / 50vw 60%
+      conic-gradient(at 5pc 5pc, #282828 75%, #eac049 0);
   }
 }
-
 </style>
 ```
