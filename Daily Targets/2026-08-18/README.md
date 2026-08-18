@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/OqjzeCZTtlVTfqqvKCRg>
 ## Code
 
 ```html
-<p><p><style>&,p{background:#51a499;>*{*{margin:0 80 120;height:40}margin:50 100;background:63Q 0/100%60%conic-gradient(at 5pc 5pc,#282828 75%,#eac049 0
+<p><p><style>&,p{background:#51a499;>*{*{margin:0 80 120;height:40}margin:50 100;background:63Q 0/99%60%conic-gradient(at 5pc 5pc,#282828 75%,#eac049 0
 ```
 
 ## Prettified code
@@ -39,7 +39,7 @@ p {
       height: 40;
     }
     margin: 50 100;
-    background: 63Q 0 / 100% 60%
+    background: 63Q 0 / 99% 60%
       conic-gradient(at 5pc 5pc, #282828 75%, #eac049 0);
   }
 }
