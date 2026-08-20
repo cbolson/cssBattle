@@ -22,45 +22,18 @@ Challenge: <https://cssbattle.dev/play/197>
 ## Code
 
 ```html
-<img><p><p><p>
-<style>
-img {
-  position: fixed;
-  border-left: dotted +53Q #f7bed9;
-  z-index: 1;
-  translate: 0 92px;
-  padding: 30;
-}
-& {
-  background: #5f133f;
-  margin: 62 167;
-}
-p {
-  clip-path: polygon(25px 7px, 117px 117px, 25px 227px, -67px 117px);
-  height: 160;
-  border-block: solid 37px #f7bed9;
-  background: #f075b0;
-  margin: -37 0 -234;
-  + p {
-    rotate: 60deg;
-    + p {
-      rotate: 120deg;
-    }
-  }
-}
-</style>
+<p><p r=60><p r=120><img><style>img{position:fixed;border-left:dotted+53q#f7bed9;translate:0 55px;padding:30}&{background:#5f133f;margin:62 167}p{clip-path:polygon(25px 7px,117px 117px,25px 227px,-67px 117px);height:160;border-block:solid 37px#f7bed9;background:#f075b0;margin:-37 0-234;rotate:attr(r deg
 ```
 
 ## Prettified code
 
 ```html
-<img><p><p><p>
+<p><p r=60><p r=120><img>
 <style>
 img {
   position: fixed;
   border-left: dotted +53Q #f7bed9;
-  z-index: 1;
-  translate: 0 92px;
+  translate: 0 55px;
   padding: 30;
 }
 & {
@@ -73,12 +46,7 @@ p {
   border-block: solid 37px #f7bed9;
   background: #f075b0;
   margin: -37 0 -234;
-  + p {
-    rotate: 60deg;
-    + p {
-      rotate: 120deg;
-    }
-  }
+  rotate: attr(r deg);
 }
 </style>
 ```
