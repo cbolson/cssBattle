@@ -120,7 +120,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #31 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2331/%23197.%20Crystal/">#197. Crystal</a> (304 Characters)</li>
+<li><a href="./Battles/Battle%20%2331/%23197.%20Crystal/">#197. Crystal</a> (285 Characters)</li>
 </ul>
 </details>
 </li>

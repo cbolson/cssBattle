@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/197>
 ## Code
 
 ```html
-<p><p r=60><p r=120><img><style>img{position:fixed;border-left:dotted+53q#f7bed9;translate:0 55px;padding:30}&{background:#5f133f;margin:62 167}p{clip-path:polygon(25px 7px,117px 117px,25px 227px,-67px 117px);height:160;border-block:solid 37px#f7bed9;background:#f075b0;margin:-37 0-234;rotate:attr(r deg
+<p><p r=60><p r=120><img><style>&{background:#5f133f;margin:62 167;color:#f7bed9}p{clip-path:polygon(25px 7q,39vh 39vh,25px 227px,-67px 39vh);height:160;border-block:solid 37px;background:#f075b0;margin:-37 0-234;rotate:attr(r deg)}img{border-top:dotted+53q;translate:0 55px;padding:30
 ```
 
 ## Prettified code
@@ -30,23 +30,23 @@ Challenge: <https://cssbattle.dev/play/197>
 ```html
 <p><p r=60><p r=120><img>
 <style>
-img {
-  position: fixed;
-  border-left: dotted +53Q #f7bed9;
-  translate: 0 55px;
-  padding: 30;
-}
 & {
   background: #5f133f;
   margin: 62 167;
+  color: #f7bed9;
 }
 p {
-  clip-path: polygon(25px 7px, 117px 117px, 25px 227px, -67px 117px);
+  clip-path: polygon(25px 7Q, 39vh 39vh, 25px 227px, -67px 39vh);
   height: 160;
-  border-block: solid 37px #f7bed9;
+  border-block: solid 37px;
   background: #f075b0;
   margin: -37 0 -234;
   rotate: attr(r deg);
+}
+img {
+  border-top: dotted +53Q;
+  translate: 0 55px;
+  padding: 30;
 }
 </style>
 ```
