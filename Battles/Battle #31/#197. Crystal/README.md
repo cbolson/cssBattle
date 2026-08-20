@@ -22,53 +22,63 @@ Challenge: <https://cssbattle.dev/play/197>
 ## Code
 
 ```html
-<p><p r=60><p r=120><h5>
+<img><p><p><p>
 <style>
-&{
-  background:#5F133F;
-  *{
-    rotate:attr(r deg)
-  }
-p{
-  margin:40 167 -260;
-height:220;
-width: 50;
-  background:linear-gradient(#F7BED9 30px, #F075B0 0 190px,#F7BED9 0);
-  border-radius: 25px/30px;
-  corner-shape:bevel;
+img {
+  position: fixed;
+  border-left: dotted +53Q #f7bed9;
+  z-index: 1;
+  translate: 0 92px;
+  padding: 30;
 }
-  h5{
-    border-radius: 25px;
-    height:50;
-    margin:125 167;
-    background:#F7BED9;
-    scale:1;
+& {
+  background: #5f133f;
+  margin: 62 167;
+}
+p {
+  clip-path: polygon(25px 7px, 117px 117px, 25px 227px, -67px 117px);
+  height: 160;
+  border-block: solid 37px #f7bed9;
+  background: #f075b0;
+  margin: -37 0 -234;
+  + p {
+    rotate: 60deg;
+    + p {
+      rotate: 120deg;
+    }
   }
+}
+</style>
 ```
 
 ## Prettified code
 
 ```html
-<p><p r=60><p r=120><h5>
+<img><p><p><p>
 <style>
-&{
-  background:#5F133F;
-  *{
-    rotate:attr(r deg)
-  }
-p{
-  margin:40 167 -260;
-height:220;
-width: 50;
-  background:linear-gradient(#F7BED9 30px, #F075B0 0 190px,#F7BED9 0);
-  border-radius: 25px/30px;
-  corner-shape:bevel;
+img {
+  position: fixed;
+  border-left: dotted +53Q #f7bed9;
+  z-index: 1;
+  translate: 0 92px;
+  padding: 30;
 }
-  h5{
-    border-radius: 25px;
-    height:50;
-    margin:125 167;
-    background:#F7BED9;
-    scale:1;
+& {
+  background: #5f133f;
+  margin: 62 167;
+}
+p {
+  clip-path: polygon(25px 7px, 117px 117px, 25px 227px, -67px 117px);
+  height: 160;
+  border-block: solid 37px #f7bed9;
+  background: #f075b0;
+  margin: -37 0 -234;
+  + p {
+    rotate: 60deg;
+    + p {
+      rotate: 120deg;
+    }
   }
+}
+</style>
 ```
