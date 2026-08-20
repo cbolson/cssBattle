@@ -22,36 +22,37 @@ Challenge: <https://cssbattle.dev/play/202>
 ## Code
 
 ```html
-<p><style>&{background:radial-gradient(1Q,#4f77ff 11q,#1038bf 0 22px,#4f77ff 22px 74Q,#1038bf 0 25vw,#4f77ff);*{background:#4F77FF;margin:50 185 168;height:83;box-shadow:0 110px;color:#1038BF;*{background:#1038BF;margin:0;rotate:90deg;translate:55px 55px
+<style>*{*{margin:-30 185 300;box-shadow:0 80q#4f77ff,0 90q#4f77ff,0 140q#4f77ff,1q 209q,1q 6cm,-63q 172q,-32q 172q,63q 172q,32q 172q;color:1038BF}background:radial-gradient(1q,#4f77ff 11q,#1038bf 0 24.5q,#4f77ff 0 74q,#1038bf 0 25vw,#4f77ff
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
-& {
+* {
+  * {
+    margin: -30 185 300;
+    box-shadow:
+      0 80Q #4f77ff,
+      0 90Q #4f77ff,
+      0 140Q #4f77ff,
+      1Q 209Q,
+      1Q 6cm,
+      -63Q 172Q,
+      -32Q 172Q,
+      63Q 172Q,
+      32Q 172Q;
+    color: 1038BF;
+  }
   background: radial-gradient(
     1Q,
     #4f77ff 11Q,
-    #1038bf 0 22px,
-    #4f77ff 22px 74Q,
+    #1038bf 0 24.5Q,
+    #4f77ff 0 74Q,
     #1038bf 0 25vw,
     #4f77ff
   );
-  * {
-    background: #4f77ff;
-    margin: 50 185 168;
-    height: 83;
-    box-shadow: 0 110px;
-    color: #1038bf;
-    * {
-      background: #1038bf;
-      margin: 0;
-      rotate: 90deg;
-      translate: 55px 55px;
-    }
-  }
 }
+
 </style>
 ```

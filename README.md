@@ -122,7 +122,7 @@ Note - I have not yet complete all the challenges.
 <ul>
 <li><a href="./Battles/Battle%20%2331/%23197.%20Crystal/">#197. Crystal</a> (274 Characters)</li>
 <li><a href="./Battles/Battle%20%2331/%23198.%20Walls/">#198. Walls</a> (179 Characters)</li>
-<li><a href="./Battles/Battle%20%2331/%23202.%20Steering%20Wheel/">#202. Steering Wheel</a> (254 Characters)</li>
+<li><a href="./Battles/Battle%20%2331/%23202.%20Steering%20Wheel/">#202. Steering Wheel</a> (241 Characters)</li>
 </ul>
 </details>
 </li>
