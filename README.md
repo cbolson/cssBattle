@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (33)
+### Battles (34)
 
 <ul>
 <li>
@@ -117,11 +117,12 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>Battle #31 (2)</strong></summary>
+<summary><strong>Battle #31 (3)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%2331/%23197.%20Crystal/">#197. Crystal</a> (274 Characters)</li>
 <li><a href="./Battles/Battle%20%2331/%23198.%20Walls/">#198. Walls</a> (179 Characters)</li>
+<li><a href="./Battles/Battle%20%2331/%23202.%20Steering%20Wheel/">#202. Steering Wheel</a> (254 Characters)</li>
 </ul>
 </details>
 </li>
