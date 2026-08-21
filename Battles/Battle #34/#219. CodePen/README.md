@@ -22,18 +22,32 @@ Challenge: <https://cssbattle.dev/play/219>
 ## Code
 
 ```html
-<p><p>
+<p><p><h5>
 <style>
 & {
   background:#101724;
   color: fff;
+  >*{
+
+  }
   p{
-    border: solid 1em;
+    border: solid 16px;
     height: 118;
     margin: 40 85 -120;
     border-radius: 100%;
     corner-shape: bevel;
   }
+  h5{
+    height:70;
+    
+    margin:32 182;
+    box-shadow:
+      inset 1in 0,
+      0 -113px,
+      97px -57px,
+      -97px -57px
+  }
+ 
 }
 </style>
 ```
@@ -41,18 +55,31 @@ Challenge: <https://cssbattle.dev/play/219>
 ## Prettified code
 
 ```html
-<p><p>
+<p><p><h5>
 <style>
 & {
   background:#101724;
   color: fff;
+  >*{
+  }
   p{
-    border: solid 1em;
+    border: solid 16px;
     height: 118;
     margin: 40 85 -120;
     border-radius: 100%;
     corner-shape: bevel;
   }
+  h5{
+    height:70;
+    
+    margin:32 182;
+    box-shadow:
+      inset 1in 0,
+      0 -113px,
+      97px -57px,
+      -97px -57px
+  }
+ 
 }
 </style>
 ```

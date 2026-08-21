@@ -132,7 +132,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #34 (4)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2334/%23219.%20CodePen/">#219. CodePen</a> (188 Characters)</li>
+<li><a href="./Battles/Battle%20%2334/%23219.%20CodePen/">#219. CodePen</a> (342 Characters)</li>
 <li><a href="./Battles/Battle%20%2334/%23222.%20Rocket/">#222. Rocket</a> (202 Characters)</li>
 <li><a href="./Battles/Battle%20%2334/%23224.%20Levelled/">#224. Levelled</a> (206 Characters)</li>
 <li><a href="./Battles/Battle%20%2334/%23226.%20Bond/">#226. Bond</a> (143 Characters)</li>
