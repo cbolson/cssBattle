@@ -133,7 +133,7 @@ Note - I have not yet complete all the challenges.
 
 <ul>
 <li><a href="./Battles/Battle%20%2334/%23222.%20Rocket/">#222. Rocket</a> (202 Characters)</li>
-<li><a href="./Battles/Battle%20%2334/%23226.%20Bond/">#226. Bond</a> (155 Characters)</li>
+<li><a href="./Battles/Battle%20%2334/%23226.%20Bond/">#226. Bond</a> (145 Characters)</li>
 </ul>
 </details>
 </li>
