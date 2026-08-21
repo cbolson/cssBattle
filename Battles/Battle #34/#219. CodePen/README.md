@@ -22,34 +22,7 @@ Challenge: <https://cssbattle.dev/play/219>
 ## Code
 
 ```html
-<p><p><h5>
-<style>
-& {
-  background:#101724;
-  color: fff;
-  >*{
-
-  }
-  p{
-    border: solid 16px;
-    height: 118;
-    margin: 40 85 -120;
-    border-radius: 100%;
-    corner-shape: bevel;
-  }
-  h5{
-    height:70;
-    
-    margin:32 182;
-    box-shadow:
-      inset 1in 0,
-      0 -113px,
-      97px -57px,
-      -97px -57px
-  }
- 
-}
-</style>
+<p><p><h5><style>&{background:#101724;color:fff;p{border:solid 4vw;height:118;margin:40 85-120;border-radius:100%;corner-shape:bevel}h5{height:70;margin:32 182;box-shadow:inset 1in 0,0-120q,97px -57px,-97px -57px
 ```
 
 ## Prettified code
@@ -58,28 +31,24 @@ Challenge: <https://cssbattle.dev/play/219>
 <p><p><h5>
 <style>
 & {
-  background:#101724;
+  background: #101724;
   color: fff;
-  >*{
-  }
-  p{
-    border: solid 16px;
+  p {
+    border: solid 4vw;
     height: 118;
     margin: 40 85 -120;
     border-radius: 100%;
     corner-shape: bevel;
   }
-  h5{
-    height:70;
-    
-    margin:32 182;
+  h5 {
+    height: 70;
+    margin: 32 182;
     box-shadow:
       inset 1in 0,
-      0 -113px,
+      0 -120Q,
       97px -57px,
-      -97px -57px
+      -97px -57px;
   }
- 
 }
 </style>
 ```
