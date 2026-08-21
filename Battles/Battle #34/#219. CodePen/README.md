@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/219>
 ## Code
 
 ```html
-<p><p><h5><style>&{background:#101724;color:fff;p{border:solid 4vw;height:118;margin:40 85-120;border-radius:100%;corner-shape:bevel}h5{height:70;margin:32 182;box-shadow:inset 1in 0,0-120q,97px -57px,-97px -57px
+<p><p><h5><style>&{background:#101724;color:fff;p{border:solid 4vw;height:118;margin:40 85-120;border-radius:100%;corner-shape:bevel}h5{height:70;margin:32 182;box-shadow:inset 1in 0,0-120Q,97px -60Q,-97px -60Q
 ```
 
 ## Prettified code
@@ -46,8 +46,8 @@ Challenge: <https://cssbattle.dev/play/219>
     box-shadow:
       inset 1in 0,
       0 -120Q,
-      97px -57px,
-      -97px -57px;
+      97px -60Q,
+      -97px -60Q;
   }
 }
 </style>
