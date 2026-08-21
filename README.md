@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (36)
+### Battles (37)
 
 <ul>
 <li>
@@ -129,10 +129,11 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>Battle #34 (2)</strong></summary>
+<summary><strong>Battle #34 (3)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%2334/%23222.%20Rocket/">#222. Rocket</a> (202 Characters)</li>
+<li><a href="./Battles/Battle%20%2334/%23224.%20Levelled/">#224. Levelled</a> (261 Characters)</li>
 <li><a href="./Battles/Battle%20%2334/%23226.%20Bond/">#226. Bond</a> (143 Characters)</li>
 </ul>
 </details>
