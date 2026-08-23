@@ -22,28 +22,27 @@ Challenge: <https://cssbattle.dev/play/JnFr5t4kizJ7EFZtXnVL>
 ## Code
 
 ```html
-<p><style>*{border:5vw solid;background:#f3ac3c;margin:75 90;>*{margin:-20;background:linear-gradient(90deg,#F3AC3C 5vw,#000 0)32q 48q/25vw 5vw repeat-x;*{height:10;margin:-50 40;border-radius:5vw
+<style>&{border-radius:5vw;height:10}*{margin:45 150 100;background:#F3AC3C;border:5vw solid;*{margin:10-80-150;background:linear-gradient(90deg,#F3AC3C 5vw,#000 0)32q 48q/25vw 5vw repeat-x
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
+& {
+  border-radius: 5vw;
+  height: 10;
+}
 * {
-  border: 5vw solid;
+  margin: 45 150 100;
   background: #f3ac3c;
-  margin: 75 90;
-  > * {
-    margin: -20;
+  border: 5vw solid;
+  * {
+    margin: 10 -80 -150;
     background: linear-gradient(90deg, #f3ac3c 5vw, #000 0) 32Q 48Q / 25vw 5vw
       repeat-x;
-    * {
-      height: 10;
-      margin: -50 40;
-      border-radius: 5vw;
-    }
   }
 }
+
 </style>
 ```
