@@ -214,7 +214,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Daily%20Targets/2026-08-21/">Aug 21, 2026</a> (186 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-22/">Aug 22, 2026</a> (152 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-23/">Aug 23, 2026</a> (168 Characters)</li>
-<li><a href="./Daily%20Targets/2026-08-24/">Aug 24, 2026</a> (117 Characters)</li>
+<li><a href="./Daily%20Targets/2026-08-24/">Aug 24, 2026</a> (116 Characters)</li>
 </ul>
 </details>
 </li>
