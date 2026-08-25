@@ -22,53 +22,58 @@ Challenge: <https://cssbattle.dev/play/G73oyNUHfqrOK7aQqOZR>
 ## Code
 
 ```html
-<p><p r=90 t=83 l=197><p r=90 t=83 l=4><p t=180>
+<dt>
+<p>
+  <img>
 <style>
-&{
+&{ 
   background:#3E6D43;
-  *{
-    margin:25 75;
-    background:#E5CA72;
-    height:230;
-    
-    
-    *{
-      position:fixed;
-      top:attr(t px,-15);
-      left:attr(l px,100);
-      background:#E5CA72;
-      height:85;
-      width:30;
-      border-inline: 10px solid #3E6D43;
-      rotate:attr(r deg);
+  *:not(img){
+  background: #E5CA72;
+  margin:25 75;
+  height:250;
+dt,p{
+
+  position: fixed;
+  height:280;
+  width:30;
+  border-inline: 11q solid #3E6D43;
+  offset:ray(0deg);
+}
+    img{
+      margin:85 -40;
+      z-index:2;
+     padding:60;
+   background: conic-gradient(at 10px 10px, #E5CA72 75%, #3E6D43 0) 30px 30px /40px 40px;
     }
-  }
 }
 ```
 
 ## Prettified code
 
 ```html
-<p><p r=90 t=83 l=197><p r=90 t=83 l=4><p t=180>
+<dt>
+<p>
+  <img>
 <style>
-&{
+&{ 
   background:#3E6D43;
-  *{
-    margin:25 75;
-    background:#E5CA72;
-    height:230;
-    
-    
-    *{
-      position:fixed;
-      top:attr(t px,-15);
-      left:attr(l px,100);
-      background:#E5CA72;
-      height:85;
-      width:30;
-      border-inline: 10px solid #3E6D43;
-      rotate:attr(r deg);
+  *:not(img){
+  background: #E5CA72;
+  margin:25 75;
+  height:250;
+dt,p{
+  position: fixed;
+  height:280;
+  width:30;
+  border-inline: 11q solid #3E6D43;
+  offset:ray(0deg);
+}
+    img{
+      margin:85 -40;
+      z-index:2;
+     padding:60;
+   background: conic-gradient(at 10px 10px, #E5CA72 75%, #3E6D43 0) 30px 30px /40px 40px;
     }
-  }
 }
 ```
