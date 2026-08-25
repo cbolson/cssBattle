@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/G73oyNUHfqrOK7aQqOZR>
 ## Code
 
 ```html
-<style>&{background:conic-gradient(at 70vw 70vw,#3e6d43 75%,#0000 0)60px 10px,conic-gradient(at 185px 45vh,#E5CA72 75%,#3E6D43 0)0 0/215px 55vh;*{color:#E5CA72;margin:95 145;height:50;border:30px solid;box-shadow:-79q -79q 0-5px,79q -79q 0-5px,-79q 79q 0-5px,79q 79q 0-5px
+<style>&{background:conic-gradient(at 70vw 70vw,#3e6d43 75%,#0000 0)63q 11q,conic-gradient(at 185px 45vh,#E5CA72 75%,#3E6D43 0)0 0/215px 55vh;*{color:#E5CA72;margin:95 145;height:50;border:30px solid;box-shadow:-79q -79q 0-5px,79q -79q 0-5px,-79q 79q 0-5px,79q 79q 0-5px
 ```
 
 ## Prettified code
@@ -31,7 +31,7 @@ Challenge: <https://cssbattle.dev/play/G73oyNUHfqrOK7aQqOZR>
 <style>
 & {
   background:
-    conic-gradient(at 70vw 70vw, #3e6d43 75%, transparent 0) 60px 10px,
+    conic-gradient(at 70vw 70vw, #3e6d43 75%, transparent 0) 63Q 11Q,
     conic-gradient(at 185px 45vh, #e5ca72 75%, #3e6d43 0) 0 0 / 215px 55vh;
   * {
     color: #e5ca72;
