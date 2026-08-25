@@ -22,37 +22,29 @@ Challenge: <https://cssbattle.dev/play/G73oyNUHfqrOK7aQqOZR>
 ## Code
 
 ```html
-<dt><p><img><style>&{background:#3E6D43;*:not(img){background:#E5CA72;margin:25 75;height:250;dt,p{position:fixed;height:280;width:30;border-inline:11q solid#3E6D43;offset:ray(0deg)}img{margin:95-30;z-index:2;padding:45;box-shadow:0 0 0 10px#E5CA72;background:conic-gradient(at 10px 10px,#E5CA72 75%,#3E6D43 0)20px 20px/40px 40px
+<style>&{background:conic-gradient(at 70vw 70vw,#3e6d43 75%,#0000 0)60px 10px,conic-gradient(at 185px 45vh,#E5CA72 75%,#3E6D43 0)0 0/215px 55vh;*{color:#E5CA72;margin:95 145;height:50;border:30px solid;box-shadow:-79q -79q 0-5px,79q -79q 0-5px,-79q 79q 0-5px,79q 79q 0-5px
 ```
 
 ## Prettified code
 
 ```html
-<dt><p><img>
 <style>
 & {
-  background: #3e6d43;
-  *:not(img) {
-    background: #e5ca72;
-    margin: 25 75;
-    height: 250;
-    dt,
-    p {
-      position: fixed;
-      height: 280;
-      width: 30;
-      border-inline: 11Q solid #3e6d43;
-      offset: ray(0deg);
-    }
-    img {
-      margin: 95 -30;
-      z-index: 2;
-      padding: 45;
-      box-shadow: 0 0 0 10px #e5ca72;
-      background: conic-gradient(at 10px 10px, #e5ca72 75%, #3e6d43 0) 20px
-        20px / 40px 40px;
-    }
+  background:
+    conic-gradient(at 70vw 70vw, #3e6d43 75%, transparent 0) 60px 10px,
+    conic-gradient(at 185px 45vh, #e5ca72 75%, #3e6d43 0) 0 0 / 215px 55vh;
+  * {
+    color: #e5ca72;
+    margin: 95 145;
+    height: 50;
+    border: 30px solid;
+    box-shadow:
+      -79Q -79Q 0 -5px,
+      79Q -79Q 0 -5px,
+      -79Q 79Q 0 -5px,
+      79Q 79Q 0 -5px;
   }
 }
+
 </style>
 ```
