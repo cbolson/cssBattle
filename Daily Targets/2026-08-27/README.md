@@ -22,34 +22,22 @@ Challenge: <https://cssbattle.dev/play/s17MKgzJQsAf1vObf9Ta>
 ## Code
 
 ```html
-<p><style>*{border:var(--b,110px)solid}&{background:#DBDDFF;margin:-40 0 0;color:#4E53BB;border-bottom:25vw solid#DBDDFF;*{margin:-10-10 0;--b:11q;height:120;*{--b:5vw;color:4D4A18;height:20;margin:60 70;border-radius:9in 9in 0 0
+<style>&{border:solid;border-width:70 110 100;border-color:#4E53BB#4E53BB#DBDDFF;background:radial-gradient(1q,#4D4A18 5vw,#0000)0 5vh,conic-gradient(at 74q 5ch,#4D4A18 25%,#4E53BB 0 75%,#0000 0)0 5pc/110px repeat-x#DBDDFF
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
-* {
-  border: var(--b, 110px) solid;
-}
 & {
-  background: #dbddff;
-  margin: -40 0 0;
-  color: #4e53bb;
-  border-bottom: 25vw solid #dbddff;
-  * {
-    margin: -10 -10 0;
-    --b: 11Q;
-    height: 120;
-    * {
-      --b: 5vw;
-      color: 4D4A18;
-      height: 20;
-      margin: 60 70;
-      border-radius: 9in 9in 0 0;
-    }
-  }
+  border: solid;
+  border-width: 70 110 100;
+  border-color: #4e53bb #4e53bb #dbddff;
+  background:
+    radial-gradient(1Q, #4d4a18 5vw, transparent) 0 5vh,
+    conic-gradient(at 74Q 5ch, #4d4a18 25%, #4e53bb 0 75%, transparent 0) 0
+      5pc / 110px repeat-x #dbddff;
 }
+
 </style>
 ```
