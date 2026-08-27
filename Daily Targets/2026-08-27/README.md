@@ -22,30 +22,33 @@ Challenge: <https://cssbattle.dev/play/s17MKgzJQsAf1vObf9Ta>
 ## Code
 
 ```html
-<p><h5><style>&{background:#DBDDFF;border:solid#4E53BB;border-width:70 110 100;border-bottom-color:#DBDDFF;height:130;p{height:60;background:#4D4A18;margin:60 62;border-radius:9in 9in 0 0}h5{height:10;background:#4E53BB;margin:-60
+<p><style>*{border:var(--b,110px)solid}&{background:#DBDDFF;margin:-40 0 0;color:#4E53BB;border-bottom:25vw solid#DBDDFF;*{margin:-10-10 0;--b:11q;height:120;*{--b:5vw;color:4D4A18;height:20;margin:60 70;border-radius:9in 9in 0 0
 ```
 
 ## Prettified code
 
 ```html
-<p><h5>
+<p>
 <style>
+* {
+  border: var(--b, 110px) solid;
+}
 & {
   background: #dbddff;
-  border: solid #4e53bb;
-  border-width: 70 110 100;
-  border-bottom-color: #dbddff;
-  height: 130;
-  p {
-    height: 60;
-    background: #4d4a18;
-    margin: 60 62;
-    border-radius: 9in 9in 0 0;
-  }
-  h5 {
-    height: 10;
-    background: #4e53bb;
-    margin: -60;
+  margin: -40 0 0;
+  color: #4e53bb;
+  border-bottom: 25vw solid #dbddff;
+  * {
+    margin: -10 -10 0;
+    --b: 11Q;
+    height: 120;
+    * {
+      --b: 5vw;
+      color: 4D4A18;
+      height: 20;
+      margin: 60 70;
+      border-radius: 9in 9in 0 0;
+    }
   }
 }
 </style>
