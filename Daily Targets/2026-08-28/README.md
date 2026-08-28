@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/qNQBUEefiqFutUSGMOzp>
 ## Code
 
 ```html
-<dt/><p><h5></h5><dt><p><h5><style>&{background:#2D3464;dt{border-top:50px dotted#F7EC7D;margin:20 202 150 12;p{margin:-50 60;height:145;border-radius:9in 9in 0 0;background:#F7EC7D}h5{background:#F7EC7D;height:30;margin:20-10 0 60}+*{scale:-1;margin:-180 12 0 202
+<dt/><p><h5></h5><dt><p><h5><style>&{background:#2d3464;dt{border-top:53q dotted#f7ec7d;margin:20 12;width:170;*{background:#f7ec7d;height:30;margin:20-10 0 60}p{margin:-50 60;height:145;border-radius:9in 9in 0 0}+*{scale:-1;margin:-50 202
 ```
 
 ## Prettified code
@@ -33,22 +33,22 @@ Challenge: <https://cssbattle.dev/play/qNQBUEefiqFutUSGMOzp>
 & {
   background: #2d3464;
   dt {
-    border-top: 50px dotted #f7ec7d;
-    margin: 20 202 150 12;
-    p {
-      margin: -50 60;
-      height: 145;
-      border-radius: 9in 9in 0 0;
-      background: #f7ec7d;
-    }
-    h5 {
+    border-top: 53Q dotted #f7ec7d;
+    margin: 20 12;
+    width: 170;
+    * {
       background: #f7ec7d;
       height: 30;
       margin: 20 -10 0 60;
     }
+    p {
+      margin: -50 60;
+      height: 145;
+      border-radius: 9in 9in 0 0;
+    }
     + * {
       scale: -1;
-      margin: -180 12 0 202;
+      margin: -50 202;
     }
   }
 }
