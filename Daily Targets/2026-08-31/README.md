@@ -22,21 +22,21 @@ Challenge: <https://cssbattle.dev/play/FjqC6d9FDroAnHkboFnS>
 ## Code
 
 ```html
-<style>&{background:#655220;margin:70;border-image:200/5ch conic-gradient(#F1D36F);*{margin:0 60 120;background:#f1d36f
+<style>*{background:#655220;margin:70;*{--x:100%;margin:0 60 120}border-image:conic-gradient(#f1d36f)200/var(--x,5ch
 ```
 
 ## Prettified code
 
 ```html
 <style>
-& {
+* {
   background: #655220;
   margin: 70;
-  border-image: 200 / 5ch conic-gradient(#f1d36f);
   * {
+    --x: 100%;
     margin: 0 60 120;
-    background: #f1d36f;
   }
+  border-image: conic-gradient(#f1d36f) 200 / var(--x, 5ch);
 }
 
 </style>
