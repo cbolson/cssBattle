@@ -22,26 +22,25 @@ Challenge: <https://cssbattle.dev/play/dxpb9nkM3OEyksSbHGOY>
 ## Code
 
 ```html
-<p><style>&{background:radial-gradient(1Q,#bade37 60px,#333 0 5lh,#bade37);*{margin:110 90;border:solid#bade37;border-width:20 0 20 60;*{height:180;margin:-70 40;border-width:0 0 0 20
+<style>&{background:radial-gradient(1q,#bade37 60px,#333 0 5lh,#bade37)fixed;margin:110 90}*{border:solid#BADE37;border-width:20 0 20 60;*{margin:-99-44;scale:.32 1
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
 & {
-  background: radial-gradient(1Q, #bade37 60px, #333 0 5lh, #bade37);
+  background: radial-gradient(1Q, #bade37 60px, #333 0 5lh, #bade37) fixed;
+  margin: 110 90;
+}
+* {
+  border: solid #bade37;
+  border-width: 20 0 20 60;
   * {
-    margin: 110 90;
-    border: solid #bade37;
-    border-width: 20 0 20 60;
-    * {
-      height: 180;
-      margin: -70 40;
-      border-width: 0 0 0 20;
-    }
+    margin: -99 -44;
+    scale: 0.32 1;
   }
 }
+
 </style>
 ```
