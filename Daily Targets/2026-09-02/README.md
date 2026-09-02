@@ -32,10 +32,10 @@ Challenge: <https://cssbattle.dev/play/AJ9pZiNcFlllq1qpGyeW>
     margin:75;
     scale:2;
     *{
-      width:25;
-      height:25;
-    
-      translate:-38px 38px
+      width:50;
+      height:50;
+    scale:1;
+      translate:-50px 25px
     }
   }
 }
@@ -54,10 +54,10 @@ Challenge: <https://cssbattle.dev/play/AJ9pZiNcFlllq1qpGyeW>
     margin:75;
     scale:2;
     *{
-      width:25;
-      height:25;
-    
-      translate:-38px 38px
+      width:50;
+      height:50;
+    scale:1;
+      translate:-50px 25px
     }
   }
 }
