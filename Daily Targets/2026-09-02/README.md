@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/AJ9pZiNcFlllq1qpGyeW>
 ## Code
 
 ```html
-<img><style>*{background:#a84a4b;margin:25 75;border-image:conic-gradient(#f5e3b5)200/25px;body{margin:75;scale:2;*{margin:25;padding:25
+<img><style>*{background:#a84a4b;margin:25 75;border-image:conic-gradient(#f5e3b5)200/25px}&>*{margin:75;scale:2;*{margin:25;padding:25
 ```
 
 ## Prettified code
@@ -34,13 +34,13 @@ Challenge: <https://cssbattle.dev/play/AJ9pZiNcFlllq1qpGyeW>
   background: #a84a4b;
   margin: 25 75;
   border-image: conic-gradient(#f5e3b5) 200 / 25px;
-  body {
-    margin: 75;
-    scale: 2;
-    * {
-      margin: 25;
-      padding: 25;
-    }
+}
+& > * {
+  margin: 75;
+  scale: 2;
+  * {
+    margin: 25;
+    padding: 25;
   }
 }
 </style>
