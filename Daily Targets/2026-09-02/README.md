@@ -22,24 +22,24 @@ Challenge: <https://cssbattle.dev/play/AJ9pZiNcFlllq1qpGyeW>
 ## Code
 
 ```html
-<img><style>*{background:#a84a4b;margin:25 75;border-image:conic-gradient(#f5e3b5)200/25px;+*{margin:75;scale:2;*{margin:25;padding:25
+<p><style>*{background:#a84a4b;margin:25 75;border:25px solid;border-image:conic-gradient(#f5e3b5);+*{margin:50;scale:2;*{margin:0
 ```
 
 ## Prettified code
 
 ```html
-<img>
+<p>
 <style>
 * {
   background: #a84a4b;
   margin: 25 75;
-  border-image: conic-gradient(#f5e3b5) 200 / 25px;
+  border: 25px solid;
+  border-image: conic-gradient(#f5e3b5);
   + * {
-    margin: 75;
+    margin: 50;
     scale: 2;
     * {
-      margin: 25;
-      padding: 25;
+      margin: 0;
     }
   }
 }
