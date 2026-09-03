@@ -22,34 +22,27 @@ Challenge: <https://cssbattle.dev/play/4Vcs99dhGoi89v5nqX2E>
 ## Code
 
 ```html
-<style>
-&{
- border-radius:9in;
-  background:#DDDEEB;
-  margin:80 160 80 100;
-
-  box-shadow:
-    80px 20px 0 -20px #DDDEEB,
-    70px -30px 0 -30px #7F8AE9,
-    0 0 0 9in #3246DE
-    ;
-
-}
+<style>&{background:#3246DE;*{border-radius:9in;margin:80 160 80 100;color:#DDDEEB;box-shadow:inset 1in 2in,5pc 5vw 0-5vw,5ch 30px 0-10px,70px -30px 0-30px#7F8AE9;clip-path:inset(0-25vw
 ```
 
 ## Prettified code
 
 ```html
 <style>
-&{
- border-radius:9in;
-  background:#DDDEEB;
-  margin:80 160 80 100;
-  box-shadow:
-    80px 20px 0 -20px #DDDEEB,
-    70px -30px 0 -30px #7F8AE9,
-    0 0 0 9in #3246DE
-    ;
-
+& {
+  background: #3246de;
+  * {
+    border-radius: 9in;
+    margin: 80 160 80 100;
+    color: #dddeeb;
+    box-shadow:
+      inset 1in 2in,
+      5pc 5vw 0 -5vw,
+      5ch 30px 0 -10px,
+      70px -30px 0 -30px #7f8ae9;
+    clip-path: inset(0 -25vw);
+  }
 }
+
+</style>
 ```
