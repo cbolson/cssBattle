@@ -22,24 +22,24 @@ Challenge: <https://cssbattle.dev/play/YaO5dVF3I9R870zMutcX>
 ## Code
 
 ```html
-<style>*{border-radius:11q}&{margin:75 80;box-shadow:0 0 0 9in#f1d36f;*{background:#333;margin:-25 60 130}background:radial-gradient(1q,#333 32q,#f1d36f 0 53q,#333
+<style>&{box-shadow:0 0 0 9in#f1d36f}*{margin:75 80;border-radius:11Q;*{--c:;margin:-25 60 130}background:radial-gradient(1q,#333 32q var(--c,,#f1d36f 0 53q,#333
 ```
 
 ## Prettified code
 
 ```html
 <style>
-* {
-  border-radius: 11Q;
-}
 & {
-  margin: 75 80;
   box-shadow: 0 0 0 9in #f1d36f;
+}
+* {
+  margin: 75 80;
+  border-radius: 11Q;
   * {
-    background: #333;
+    --c:;
     margin: -25 60 130;
   }
-  background: radial-gradient(1Q, #333 32Q, #f1d36f 0 53Q, #333);
+  background: radial-gradient(1Q, #333 32Q var(--c, , #f1d36f 0 53Q, #333));
 }
 
 </style>
