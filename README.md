@@ -238,7 +238,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Daily%20Targets/2026-09-06/">Sep 6, 2026</a> (181 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-07/">Sep 7, 2026</a> (128 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-08/">Sep 8, 2026</a> (160 Characters)</li>
-<li><a href="./Daily%20Targets/2026-09-09/">Sep 9, 2026</a> (142 Characters)</li>
+<li><a href="./Daily%20Targets/2026-09-09/">Sep 9, 2026</a> (141 Characters)</li>
 </ul>
 </details>
 </li>
