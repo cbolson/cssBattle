@@ -22,21 +22,20 @@ Challenge: <https://cssbattle.dev/play/YdSTFgl2iKzGCW1ahmEz>
 ## Code
 
 ```html
-<p><p><style>p{margin:90 162;height:60;border-radius:9in 9in 0 0;box-shadow:0 0 0 5vw#333;+p{margin:-90 112;scale:-1;height:120;box-shadow:inset 2in 2in#333,60q 32q#FFF
+<style>*{margin:90 170;height:60;border-radius:9in 9in 0 0;box-shadow:0 0 0 5vw#333;*{margin:60-50;scale:-1;height:120;box-shadow:inset 2in 2in#333,60q 32q#FFF
 ```
 
 ## Prettified code
 
 ```html
-<p><p>
 <style>
-p {
-  margin: 90 162;
+* {
+  margin: 90 170;
   height: 60;
   border-radius: 9in 9in 0 0;
   box-shadow: 0 0 0 5vw #333;
-  + p {
-    margin: -90 112;
+  * {
+    margin: 60 -50;
     scale: -1;
     height: 120;
     box-shadow:
@@ -44,5 +43,6 @@ p {
       60Q 32Q #fff;
   }
 }
+
 </style>
 ```
