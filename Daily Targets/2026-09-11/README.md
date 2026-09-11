@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/7vxnmvdZG5jOA5grQWZT>
 ## Code
 
 ```html
-<style>&{background:#FFD0BD;border-radius:9in;border:5vw solid;color:6B86E1;margin:60 150;*{height:20;margin:30 0;box-shadow:-63q 0,0 32q,5pc 5vw,-5pc 5ch,63q 63q
+<style>&{background:#FFD0BD;border-radius:9in;border:5vw solid;color:6B86E1;margin:60 150;*{margin:30 0 90;box-shadow:-63q 0,0 32q,5pc 5vw,-5pc 5ch,63q 63q
 ```
 
 ## Prettified code
@@ -36,8 +36,7 @@ Challenge: <https://cssbattle.dev/play/7vxnmvdZG5jOA5grQWZT>
   color: 6B86E1;
   margin: 60 150;
   * {
-    height: 20;
-    margin: 30 0;
+    margin: 30 0 90;
     box-shadow:
       -63Q 0,
       0 32Q,
