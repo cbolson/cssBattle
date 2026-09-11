@@ -120,7 +120,7 @@ Note - I have not yet complete all the challenges.
 <summary><strong>Battle #13 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2313/%2371.%20Elephant/">#71. Elephant</a> (537 Characters)</li>
+<li><a href="./Battles/Battle%20%2313/%2371.%20Elephant/">#71. Elephant</a> (506 Characters)</li>
 </ul>
 </details>
 </li>

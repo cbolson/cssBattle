@@ -22,65 +22,56 @@ Challenge: <https://cssbattle.dev/play/71>
 ## Code
 
 ```html
-<p>
-<img>
-<style>
-&{
-  background:#998235;
-  body{
-    -webkit-box-reflect:right 140px;
-   background:#0B2429;
-   margin:60 270 60 50;
-   box-shadow:inset 17px 0#1A4341;
-  
- }
-  body,p{
-     border-radius:100%;
-  }
-  p{
-    height: 180;
-    margin: 0 -160 0 60;
-    background:linear-gradient(90deg,#1A4341 90px, #0000 0);
-  }
-  img{
-    padding:95;
-    background:
-      radial-gradient(1q at 100% 100%, #0000 40px,#FFF 0 60px,#0000 0) -100px,
-      radial-gradient(1q at top,#0B2429 10px,#998235 0 20px,#0000) -30px 90px
-      ;
-  }
- }
+<p><img><h5><style>&{background:#998235;body{-webkit-box-reflect:right 140px;background:#0B2429;margin:60 270 60 50;box-shadow:inset 17px 0#1A4341}body,p,h5{border-radius:100%;height:180}p{height:180;margin:0-160 0 60;background:linear-gradient(90deg,#1A4341 90px,#0000 0)}img{padding:95;background:radial-gradient(1q at 100%100%,#0000 40px,#FFF 0 60px,#0000 0)-100px,radial-gradient(1q at top,#0B2429 10px,#998235 0 20px,#0000)-35px 90px}h5{scale:1;border-radius:9in;background:#0B2429;margin:-60-90 0 130
 ```
 
 ## Prettified code
 
 ```html
-<p>
-<img>
+<p><img><h5>
 <style>
-&{
-  background:#998235;
-  body{
-    -webkit-box-reflect:right 140px;
-   background:#0B2429;
-   margin:60 270 60 50;
-   box-shadow:inset 17px 0#1A4341;
-  
- }
-  body,p{
-     border-radius:100%;
+& {
+  background: #998235;
+  body {
+    -webkit-box-reflect: right 140px;
+    background: #0b2429;
+    margin: 60 270 60 50;
+    box-shadow: inset 17px 0 #1a4341;
   }
-  p{
+  body,
+  p,
+  h5 {
+    border-radius: 100%;
+    height: 180;
+  }
+  p {
     height: 180;
     margin: 0 -160 0 60;
-    background:linear-gradient(90deg,#1A4341 90px, #0000 0);
+    background: linear-gradient(90deg, #1a4341 90px, transparent 0);
   }
-  img{
-    padding:95;
+  img {
+    padding: 95;
     background:
-      radial-gradient(1q at 100% 100%, #0000 40px,#FFF 0 60px,#0000 0) -100px,
-      radial-gradient(1q at top,#0B2429 10px,#998235 0 20px,#0000) -30px 90px
-      ;
+      radial-gradient(
+          1Q at 100% 100%,
+          transparent 40px,
+          #fff 0 60px,
+          transparent 0
+        ) -100px,
+      radial-gradient(
+          1Q at top,
+          #0b2429 10px,
+          #998235 0 20px,
+          transparent
+        ) -35px
+        90px;
   }
- }
+  h5 {
+    scale: 1;
+    border-radius: 9in;
+    background: #0b2429;
+    margin: -60 -90 0 130;
+  }
+}
+</style>
 ```
