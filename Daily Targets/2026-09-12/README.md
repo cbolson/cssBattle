@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/xINN7erbUm2K2I0zG5YF>
 ## Code
 
 ```html
-<style>&{*{margin:105 175 45;background:#F5E3B5;box-shadow:0-5pc#1D025E}background:radial-gradient(1q at 50%95px,#F5E3B5 53q,#1D025E
+<style>&{*{margin:105 175 45;background:#F5E3B5;box-shadow:0-5pc#1D025E}background:radial-gradient(1q,#F5E3B5 53q,#1D025E)0-90q
 ```
 
 ## Prettified code
@@ -35,7 +35,7 @@ Challenge: <https://cssbattle.dev/play/xINN7erbUm2K2I0zG5YF>
     background: #f5e3b5;
     box-shadow: 0 -5pc #1d025e;
   }
-  background: radial-gradient(1Q at 50% 95px, #f5e3b5 53Q, #1d025e);
+  background: radial-gradient(1Q, #f5e3b5 53Q, #1d025e) 0 -90Q;
 }
 
 </style>
