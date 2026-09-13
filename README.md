@@ -178,7 +178,7 @@ Note - I have not yet complete all the challenges.
 </li>
 </ul>
 
-### Daily Targets (49)
+### Daily Targets (50)
 
 <ul>
 <li>
@@ -236,7 +236,7 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>September 2026 (12/12+)</strong></summary>
+<summary><strong>September 2026 (13/13+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-09-01/">Sep 1, 2026</a> (164 Characters)</li>
@@ -251,6 +251,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Daily%20Targets/2026-09-10/">Sep 10, 2026</a> (140 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-11/">Sep 11, 2026</a> (155 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-12/">Sep 12, 2026</a> (110 Characters)</li>
+<li><a href="./Daily%20Targets/2026-09-13/">Sep 13, 2026</a> (179 Characters)</li>
 </ul>
 </details>
 </li>
