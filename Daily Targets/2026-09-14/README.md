@@ -22,35 +22,24 @@ Challenge: <https://cssbattle.dev/play/9sCBYHjLMHJ372p55cz7>
 ## Code
 
 ```html
-<img><style>&,img{background:#f8b140;*{clip-path:circle(95px);background:radial-gradient(1Q,#0000 25px,#465792 0 37q,#0000 0)-48q -0.5q/95px 95px;*{background:#465792;padding:40;margin:102 152;border-radius:25px;corner-shape:notch;box-shadow:0 0 0 10q#f8b140
+<style>&{background:radial-gradient(1q,#0000 95px,#F8B140),radial-gradient(1q,#F8B140 25px,#465792 0 37q,#F8B140 0)61q 8q/95px 95px;*{background:#465792;margin:110 160;border-image:conic-gradient(#F8B140)40/27q
 ```
 
 ## Prettified code
 
 ```html
-<img>
 <style>
-&,
-img {
-  background: #f8b140;
+& {
+  background:
+    radial-gradient(1Q, transparent 95px, #f8b140),
+    radial-gradient(1Q, #f8b140 25px, #465792 0 37Q, #f8b140 0) 61Q 8Q / 95px
+      95px;
   * {
-    clip-path: circle(95px);
-    background: radial-gradient(
-        1Q,
-        transparent 25px,
-        #465792 0 37Q,
-        transparent 0
-      ) -48Q -0.5Q /
-      95px 95px;
-    * {
-      background: #465792;
-      padding: 40;
-      margin: 102 152;
-      border-radius: 25px;
-      corner-shape: notch;
-      box-shadow: 0 0 0 10Q #f8b140;
-    }
+    background: #465792;
+    margin: 110 160;
+    border-image: conic-gradient(#f8b140) 40 / 27Q;
   }
 }
+
 </style>
 ```
