@@ -22,20 +22,20 @@ Challenge: <https://cssbattle.dev/play/5ZezM7kuEUF3qoAOjCIx>
 ## Code
 
 ```html
-<img><img b><img b><img d><style>&{background:#993576;margin:12 62}[b]{--b:0 64%}[d]{scale:-1}img{padding:55;background:#5adab8;margin:10;border-radius:64%var(--b,64%0
+<img b><img><img><img b d><style>&{background:#993576;margin:12 62}[b]{--b:64%64%}[d]{scale:-1}img{padding:55;background:#5adab8;margin:10;border-radius:var(--b,64%)0
 ```
 
 ## Prettified code
 
 ```html
-<img><img b><img b><img d>
+<img b><img><img><img b d>
 <style>
 & {
   background: #993576;
   margin: 12 62;
 }
 [b] {
-  --b: 0 64%;
+  --b: 64% 64%;
 }
 [d] {
   scale: -1;
@@ -44,7 +44,7 @@ img {
   padding: 55;
   background: #5adab8;
   margin: 10;
-  border-radius: 64% var(--b, 64% 0);
+  border-radius: var(--b, 64%) 0;
 }
 </style>
 ```
