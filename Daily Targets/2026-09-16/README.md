@@ -22,13 +22,13 @@ Challenge: <https://cssbattle.dev/play/4p0BAlG4T8ddxGUbcOhn>
 ## Code
 
 ```html
-<p h=50><p h=0 y=-190><style>&,p{background:#FAE29E;*{height:attr(h px,0);border:solid#743F3F;border-width:20 10 10}&>*{border-width:50;margin:25%85;border-radius:53q 53q 0 0;*{margin:5;translate:0 attr(y q,-5px
+<p h=50><p h=0 y=-180><style>&,p{background:#FAE29E;*{height:attr(h px,0);border:solid#743F3F;border-width:20 10 10}&>*{border-width:50;margin:25%85;border-radius:53q 53q 0 0;*{margin:attr(y q,0)5
 ```
 
 ## Prettified code
 
 ```html
-<p h=50><p h=0 y=-190>
+<p h=50><p h=0 y=-180>
 <style>
 &,
 p {
@@ -43,8 +43,7 @@ p {
     margin: 25% 85;
     border-radius: 53Q 53Q 0 0;
     * {
-      margin: 5;
-      translate: 0 attr(y q, -5px);
+      margin: attr(y q, 0) 5;
     }
   }
 }
