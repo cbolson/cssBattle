@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/4p0BAlG4T8ddxGUbcOhn>
 ## Code
 
 ```html
-<p h=53><p y=-180><style>&{*{background:#FAE29E;border:solid#743F3F;border-width:20 10 10;height:attr(h q);margin:attr(y q,0)5}&>*{border-width:50;margin:25%85;border-radius:53q 53q 0 0
+<p h=53><p y=-180><style>&{*{background:#FAE29E;border:solid#743F3F;border-width:20 10 10;height:attr(h q);margin:attr(y q,0)5}>*{border-width:50;margin:25%85;border-radius:53q 53q 0 0
 ```
 
 ## Prettified code
@@ -38,7 +38,7 @@ Challenge: <https://cssbattle.dev/play/4p0BAlG4T8ddxGUbcOhn>
     height: attr(h q);
     margin: attr(y q, 0) 5;
   }
-  & > * {
+  > * {
     border-width: 50;
     margin: 25% 85;
     border-radius: 53Q 53Q 0 0;
