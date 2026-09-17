@@ -25,7 +25,7 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
 <p><p>
 <style>
 &{
-    margin:40 90;
+  margin:40 90;
   background:#7EC3E8;
   border-bottom:5ch solid #333;
   &>*{
@@ -35,7 +35,7 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
     border-radius:9in 9in 0 0;
     corner-shape:bevel;
     p{
-      border:10px solid#333;
+      border:11q solid#333;
       height:80;
       margin:0 35;
       translate:0 90px;
@@ -53,7 +53,7 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
 <p><p>
 <style>
 &{
-    margin:40 90;
+  margin:40 90;
   background:#7EC3E8;
   border-bottom:5ch solid #333;
   &>*{
@@ -63,7 +63,7 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
     border-radius:9in 9in 0 0;
     corner-shape:bevel;
     p{
-      border:10px solid#333;
+      border:11q solid#333;
       height:80;
       margin:0 35;
       translate:0 90px;
