@@ -22,31 +22,32 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
 ## Code
 
 ```html
-<p><p><style>&{margin:40 90;background:#7ec3e8;border-bottom:5ch solid#333;>*{margin:0 10 180;background:#333;border-radius:9in 9in 0 0;corner-shape:bevel;p{border:11q solid#333;height:80;margin:0 35;translate:0 95Q;+p{margin:-100 65
+<p><style>&{color:#333;margin:40 90;background:#7ec3e8;border-bottom:5ch solid;>*{background:#333;margin:0 10 80;border-radius:9in 9in 0 0;corner-shape:bevel;p{box-shadow:37q 25vw,69q 25vw,132q 25vw,164q 25vw;height:80;width:10
 ```
 
 ## Prettified code
 
 ```html
-<p><p>
+<p>
 <style>
 & {
+  color: #333;
   margin: 40 90;
   background: #7ec3e8;
-  border-bottom: 5ch solid #333;
+  border-bottom: 5ch solid;
   > * {
-    margin: 0 10 180;
     background: #333;
+    margin: 0 10 80;
     border-radius: 9in 9in 0 0;
     corner-shape: bevel;
     p {
-      border: 11Q solid #333;
+      box-shadow:
+        37Q 25vw,
+        69Q 25vw,
+        132Q 25vw,
+        164Q 25vw;
       height: 80;
-      margin: 0 35;
-      translate: 0 95Q;
-      + p {
-        margin: -100 65;
-      }
+      width: 10;
     }
   }
 }
