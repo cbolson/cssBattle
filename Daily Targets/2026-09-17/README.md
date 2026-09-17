@@ -38,7 +38,7 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
       border:11q solid#333;
       height:80;
       margin:0 35;
-      translate:0 90px;
+      translate:0 95q;
       +p{
         margin: -100 65;
       }
@@ -66,7 +66,7 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
       border:11q solid#333;
       height:80;
       margin:0 35;
-      translate:0 90px;
+      translate:0 95q;
       +p{
         margin: -100 65;
       }
