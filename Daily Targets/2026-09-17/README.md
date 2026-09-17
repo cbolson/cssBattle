@@ -30,8 +30,10 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
   border-bottom:5ch solid #333;
   &>*{
     margin:0 10;
-    background:linear-gradient(#333 25vw,#0000 0);
-    clip-path:polygon(50%0,100%25vw,100% 100%,0 100%,0 25vw);
+    background:#333;
+    height:100;
+    border-radius:9in 9in 0 0;
+    corner-shape:bevel;
     p{
       border:10px solid#333;
       height:80;
@@ -56,8 +58,10 @@ Challenge: <https://cssbattle.dev/play/FI82QbLNuW9WtU2AemyW>
   border-bottom:5ch solid #333;
   &>*{
     margin:0 10;
-    background:linear-gradient(#333 25vw,#0000 0);
-    clip-path:polygon(50%0,100%25vw,100% 100%,0 100%,0 25vw);
+    background:#333;
+    height:100;
+    border-radius:9in 9in 0 0;
+    corner-shape:bevel;
     p{
       border:10px solid#333;
       height:80;
