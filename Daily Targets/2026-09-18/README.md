@@ -22,31 +22,27 @@ Challenge: <https://cssbattle.dev/play/bgsT1tukudFAfXdKJGD2>
 ## Code
 
 ```html
-<p><style>&{border-radius:5ch 0 0 5ch}*{background:#4C4C6B;border:solid#FAE29E;border-width:20 0 20 20;margin:40 160 40 120;*{border-width:0 20 0 0;margin:50-90 50 0;*{width:120;border-width:10;translate:30px 30px
+<style>&{background:#4C4C6B;margin:40 70 40 120;border-radius:5ch;border:5vw solid#FAE29E;*{margin:50 0 50 30;background:linear-gradient(#FAE29E 5vw,#0000 0)0 30px;color:4C4C6B;box-shadow:74q -5pc,74q 5pc
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
 & {
-  border-radius: 5ch 0 0 5ch;
-}
-* {
   background: #4c4c6b;
-  border: solid #fae29e;
-  border-width: 20 0 20 20;
-  margin: 40 160 40 120;
+  margin: 40 70 40 120;
+  border-radius: 5ch;
+  border: 5vw solid #fae29e;
   * {
-    border-width: 0 20 0 0;
-    margin: 50 -90 50 0;
-    * {
-      width: 120;
-      border-width: 10;
-      translate: 30px 30px;
-    }
+    margin: 50 0 50 30;
+    background: linear-gradient(#fae29e 5vw, transparent 0) 0 30px;
+    color: 4C4C6B;
+    box-shadow:
+      74Q -5pc,
+      74Q 5pc;
   }
 }
+
 </style>
 ```
