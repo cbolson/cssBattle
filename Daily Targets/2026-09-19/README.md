@@ -22,22 +22,22 @@ Challenge: <https://cssbattle.dev/play/LXVlYbdUHfOS5mrqkEh0>
 ## Code
 
 ```html
-<style>&{margin:110 100;background:radial-gradient(1q,#ffa173 125px,#485993)fixed;box-shadow:inset 9in 0#485993;*{margin:-50 10 30;corner-shape:bevel;border-radius:100%;background:linear-gradient(#485993 50%,#ffa173 0
+<style>*{margin:110 100;background:radial-gradient(1q,#ffa173 125px,#485993)fixed;box-shadow:inset 3in 0#485993;*{margin:-50 5%30;border-radius:50%;corner-shape:bevel;border-bottom:53q solid#FFA173
 ```
 
 ## Prettified code
 
 ```html
 <style>
-& {
+* {
   margin: 110 100;
   background: radial-gradient(1Q, #ffa173 125px, #485993) fixed;
-  box-shadow: inset 9in 0 #485993;
+  box-shadow: inset 3in 0 #485993;
   * {
-    margin: -50 10 30;
+    margin: -50 5% 30;
+    border-radius: 50%;
     corner-shape: bevel;
-    border-radius: 100%;
-    background: linear-gradient(#485993 50%, #ffa173 0);
+    border-bottom: 53Q solid #ffa173;
   }
 }
 
