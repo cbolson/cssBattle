@@ -22,24 +22,24 @@ Challenge: <https://cssbattle.dev/play/LXVlYbdUHfOS5mrqkEh0>
 ## Code
 
 ```html
-<p><style>&{background:conic-gradient(at 50vw 5pc,#485993 25%,#0000 0)-25vw 116q,radial-gradient(1q,#FFA173 125px,#485993);*{margin:-80 110 140;corner-shape:bevel;border-radius:100%;background:linear-gradient(#485993 50%,#FFA173 0
+<style>&{background:conic-gradient(at 50vw 5pc,#485993 25%,#0000 0)-25vw 116Q,radial-gradient(1Q,#ffa173 125px,#485993);*{margin:60 110 140;corner-shape:bevel;border-radius:100%;background:linear-gradient(#485993 50%,#ffa173 0
 ```
 
 ## Prettified code
 
 ```html
-<p>
 <style>
 & {
   background:
     conic-gradient(at 50vw 5pc, #485993 25%, transparent 0) -25vw 116Q,
     radial-gradient(1Q, #ffa173 125px, #485993);
   * {
-    margin: -80 110 140;
+    margin: 60 110 140;
     corner-shape: bevel;
     border-radius: 100%;
     background: linear-gradient(#485993 50%, #ffa173 0);
   }
 }
+
 </style>
 ```
