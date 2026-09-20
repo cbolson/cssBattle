@@ -22,27 +22,24 @@ Challenge: <https://cssbattle.dev/play/2R2qUfqneVtkaggWFkh5>
 ## Code
 
 ```html
-<style>&{box-shadow:-30vw 25vw 0-25vw,30vw 25vw 0-25vw}*{color:#FEE190;margin:50 80 40;background:#51A499;border:solid;border-width:0 40;*{margin:20 0 30;border-width:40 0
+<style>*{margin:50 80 40;background:#51a499;color:FEE190;border-inline:5ch solid;box-shadow:-30vw 25vw 0-25vw,30vw 25vw 0-25vw;*{rotate:90deg;margin:20 0 30
 ```
 
 ## Prettified code
 
 ```html
 <style>
-& {
+* {
+  margin: 50 80 40;
+  background: #51a499;
+  color: FEE190;
+  border-inline: 5ch solid;
   box-shadow:
     -30vw 25vw 0 -25vw,
     30vw 25vw 0 -25vw;
-}
-* {
-  color: #fee190;
-  margin: 50 80 40;
-  background: #51a499;
-  border: solid;
-  border-width: 0 40;
   * {
+    rotate: 90deg;
     margin: 20 0 30;
-    border-width: 40 0;
   }
 }
 
