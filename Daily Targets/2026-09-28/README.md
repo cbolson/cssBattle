@@ -47,10 +47,10 @@ Challenge: <https://cssbattle.dev/play/sPBh2rqUt3ilhlL5Rdhj>
 p{
   
 margin:-195 230;
-  padding:50 20;
+  padding:50;
   border:30px solid;
-  border-right:none;
-  border-radius:100px 0 0 100px
+  border-radius:74px;
+  clip-path:polygon(0 0, 70px 0, 70px 100%,0 100%)
   
 }
 ```
@@ -83,10 +83,10 @@ margin:-195 230;
 p{
   
 margin:-195 230;
-  padding:50 20;
+  padding:50;
   border:30px solid;
-  border-right:none;
-  border-radius:100px 0 0 100px
+  border-radius:74px;
+  clip-path:polygon(0 0, 70px 0, 70px 100%,0 100%)
   
 }
 ```
