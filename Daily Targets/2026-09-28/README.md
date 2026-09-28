@@ -22,37 +22,7 @@ Challenge: <https://cssbattle.dev/play/sPBh2rqUt3ilhlL5Rdhj>
 ## Code
 
 ```html
-<img><img><img><img><img><p>
-<style>
-&{
-  margin:127 2
-}
-  img{
-    background:#000;
-    padding:15 45;
-    margin:0 10;
-    +*+*{
-      
-      margin:-95 300;
-      padding:15 20;
-      +*{
-        margin:35 330;
-        +*{
-          margin:-195 310;
-          padding:80 15
-        }
-      }
-    }
-  }
-p{
-  
-margin:-195 230;
-  padding:50;
-  border:30px solid;
-  border-radius:74px;
-  clip-path:polygon(0 0, 70px 0, 70px 100%,0 100%)
-  
-}
+<img><img><img><img><img><p><style>&{margin:127 2}img{background:#000;padding:15 45;margin:0 10;+*+*{margin:-95 300;padding:15 20;+*{margin:35 330;+*{margin:-195 310;padding:80 15}}}}p{padding:0;height:100;margin:-195 10 0 230;clip-path:polygon(0 0,70px 0,70px 100%,0 100%);border:30px solid;border-radius:90px/103px
 ```
 
 ## Prettified code
@@ -60,33 +30,32 @@ margin:-195 230;
 ```html
 <img><img><img><img><img><p>
 <style>
-&{
-  margin:127 2
+& {
+  margin: 127 2;
 }
-  img{
-    background:#000;
-    padding:15 45;
-    margin:0 10;
-    +*+*{
-      
-      margin:-95 300;
-      padding:15 20;
-      +*{
-        margin:35 330;
-        +*{
-          margin:-195 310;
-          padding:80 15
-        }
+img {
+  background: #000;
+  padding: 15 45;
+  margin: 0 10;
+  + * + * {
+    margin: -95 300;
+    padding: 15 20;
+    + * {
+      margin: 35 330;
+      + * {
+        margin: -195 310;
+        padding: 80 15;
       }
     }
   }
-p{
-  
-margin:-195 230;
-  padding:50;
-  border:30px solid;
-  border-radius:74px;
-  clip-path:polygon(0 0, 70px 0, 70px 100%,0 100%)
-  
 }
+p {
+  padding: 0;
+  height: 100;
+  margin: -195 10 0 230;
+  clip-path: polygon(0 0, 70px 0, 70px 100%, 0 100%);
+  border: 30px solid;
+  border-radius: 90px / 103px;
+}
+</style>
 ```
