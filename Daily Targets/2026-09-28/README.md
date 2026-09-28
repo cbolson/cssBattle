@@ -22,40 +22,32 @@ Challenge: <https://cssbattle.dev/play/sPBh2rqUt3ilhlL5Rdhj>
 ## Code
 
 ```html
-<img><img><img><img><img><p><style>&{margin:127 2}img{background:#000;padding:15 45;margin:0 10;+*+*{margin:-95 300;padding:15 20;+*{margin:35 330;+*{margin:-195 310;padding:80 15}}}}p{padding:0;height:100;margin:-195 10 0 230;clip-path:polygon(0 0,70px 0,70px 100%,0 100%);border:30px solid;border-radius:90px/103px
+<p><h5><style>&>*{margin:70 50 0 240;height:100;border-radius:90px 0 0 90px/103px;border:30px solid;*{height:30;box-shadow:-250px 35px,-210px 35px,-140px 35px,-100px 35px,60px 100px}h5{margin:0 20;box-shadow:20px 54px#FFF
 ```
 
 ## Prettified code
 
 ```html
-<img><img><img><img><img><p>
+<p><h5>
 <style>
-& {
-  margin: 127 2;
-}
-img {
-  background: #000;
-  padding: 15 45;
-  margin: 0 10;
-  + * + * {
-    margin: -95 300;
-    padding: 15 20;
-    + * {
-      margin: 35 330;
-      + * {
-        margin: -195 310;
-        padding: 80 15;
-      }
-    }
-  }
-}
-p {
-  padding: 0;
+& > * {
+  margin: 70 50 0 240;
   height: 100;
-  margin: -195 10 0 230;
-  clip-path: polygon(0 0, 70px 0, 70px 100%, 0 100%);
+  border-radius: 90px 0 0 90px / 103px;
   border: 30px solid;
-  border-radius: 90px / 103px;
+  * {
+    height: 30;
+    box-shadow:
+      -250px 35px,
+      -210px 35px,
+      -140px 35px,
+      -100px 35px,
+      60px 100px;
+  }
+  h5 {
+    margin: 0 20;
+    box-shadow: 20px 54px #fff;
+  }
 }
 </style>
 ```
