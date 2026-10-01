@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/2T06JBTudrVtVc9pONU7>
 ## Code
 
 ```html
-<p><style>&{outline:9in solid#7dcb61;background:#d9d9d9;margin:55 65;border-radius:11Q;border:solid#454545;border-width:15 15 75;height:100;&>*{border-radius:9in;margin:25 45;background:radial-gradient(1q,#0000 5vw,#454545)-25px/25vw}p{height:10;translate:0 106q;border:solid#727272;border-width:20 55
+<p><style>&{outline:9in solid#7dcb61;background:#d9d9d9;margin:55 65;border-radius:11Q;border:solid#454545;border-width:15 15 75;&>*{border-radius:9in;margin:25 45;background:radial-gradient(1q,#0000 5vw,#454545)-25px/25vw}p{height:10;translate:0 106q;border:solid#727272;border-width:20 55
 ```
 
 ## Prettified code
@@ -37,7 +37,6 @@ Challenge: <https://cssbattle.dev/play/2T06JBTudrVtVc9pONU7>
   border-radius: 11Q;
   border: solid #454545;
   border-width: 15 15 75;
-  height: 100;
   & > * {
     border-radius: 9in;
     margin: 25 45;
