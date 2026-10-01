@@ -22,25 +22,7 @@ Challenge: <https://cssbattle.dev/play/2T06JBTudrVtVc9pONU7>
 ## Code
 
 ```html
-<p>
-<style>
-& {
-  outline: 9in solid #7dcb61;
-  background: #d9d9d9;
-  margin: 55 65;
-  border-radius: 11Q;
-  border: solid #454545;
-  border-width: 15 15 75;
-  
-  p {
-    height: 10;
-    translate: 0 106q;
-    border: solid #727272;
-    border-width: 20 55;
-  }
-  
-}
-</style>
+<p><style>&{outline:9in solid#7dcb61;background:#4443;margin:55 65;border-radius:11Q;border:solid#454545;border-width:15 15 75;p{height:10;translate:0 106q;border:solid#EEE4;border-width:20 55}&>*{border-radius:9in;margin:25 45;background:79q/67%radial-gradient(1q,#0000 5vw,#454545
 ```
 
 ## Prettified code
@@ -50,19 +32,22 @@ Challenge: <https://cssbattle.dev/play/2T06JBTudrVtVc9pONU7>
 <style>
 & {
   outline: 9in solid #7dcb61;
-  background: #d9d9d9;
+  background: #4443;
   margin: 55 65;
   border-radius: 11Q;
   border: solid #454545;
   border-width: 15 15 75;
-  
   p {
     height: 10;
-    translate: 0 106q;
-    border: solid #727272;
+    translate: 0 106Q;
+    border: solid #eee4;
     border-width: 20 55;
   }
-  
+  & > * {
+    border-radius: 9in;
+    margin: 25 45;
+    background: 79Q / 67% radial-gradient(1Q, transparent 5vw, #454545);
+  }
 }
 </style>
 ```
