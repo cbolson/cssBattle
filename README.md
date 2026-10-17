@@ -178,7 +178,7 @@ Note - I have not yet complete all the challenges.
 </li>
 </ul>
 
-### Daily Targets (64)
+### Daily Targets (65)
 
 <ul>
 <li>
@@ -268,12 +268,13 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>October 2026 (3/6+)</strong></summary>
+<summary><strong>October 2026 (4/17+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-10-01/">Oct 1, 2026</a> (283 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-05/">Oct 5, 2026</a> (189 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-06/">Oct 6, 2026</a> (139 Characters)</li>
+<li><a href="./Daily%20Targets/2026-10-17/">Oct 17, 2026</a> (112 Characters)</li>
 </ul>
 </details>
 </li>
