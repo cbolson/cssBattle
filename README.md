@@ -275,7 +275,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Daily%20Targets/2026-10-05/">Oct 5, 2026</a> (189 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-06/">Oct 6, 2026</a> (139 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-17/">Oct 17, 2026</a> (112 Characters)</li>
-<li><a href="./Daily%20Targets/2026-10-18/">Oct 18, 2026</a> (294 Characters)</li>
+<li><a href="./Daily%20Targets/2026-10-18/">Oct 18, 2026</a> (203 Characters)</li>
 </ul>
 </details>
 </li>
