@@ -14,7 +14,7 @@ Note - I have not yet complete all the challenges.
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (39)
+### Battles (40)
 
 <ul>
 <li>
@@ -121,6 +121,15 @@ Note - I have not yet complete all the challenges.
 
 <ul>
 <li><a href="./Battles/Battle%20%2313/%2371.%20Elephant/">#71. Elephant</a> (506 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #14 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2314/%2377.%20Notes/">#77. Notes</a> (271 Characters)</li>
 </ul>
 </details>
 </li>
@@ -268,7 +277,7 @@ Note - I have not yet complete all the challenges.
 </li>
 <li>
 <details>
-<summary><strong>October 2026 (6/19+)</strong></summary>
+<summary><strong>October 2026 (6/28+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-10-01/">Oct 1, 2026</a> (283 Characters)</li>
