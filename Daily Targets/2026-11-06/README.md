@@ -22,41 +22,26 @@ Challenge: <https://cssbattle.dev/play/jHTSQXbsHDY0OOetADF1>
 ## Code
 
 ```html
-<style>
-&{
- 
-}
-*{
-  
- border:solid #8B4646;
-  border-width: 30 30 0 0;
-  margin:45 95 15 65;
-  box-shadow:inset -11q 11q #E98F6B;
-  *{
-    margin:-60 -60 30 30;
-    scale:-1;
-   
-  }
- }
+<style>&{background:#D52A}*{border:solid#8B4646;border-width:30 30 0 0;margin:45 95 15 65;box-shadow:inset -11q 11q#E98F6B;*{margin:-60-60 30 30;scale:-1
 ```
 
 ## Prettified code
 
 ```html
 <style>
-&{
- 
+& {
+  background: #d52a;
 }
-*{
-  
- border:solid #8B4646;
+* {
+  border: solid #8b4646;
   border-width: 30 30 0 0;
-  margin:45 95 15 65;
-  box-shadow:inset -11q 11q #E98F6B;
-  *{
-    margin:-60 -60 30 30;
-    scale:-1;
-   
+  margin: 45 95 15 65;
+  box-shadow: inset -11Q 11Q #e98f6b;
+  * {
+    margin: -60 -60 30 30;
+    scale: -1;
   }
- }
+}
+
+</style>
 ```
