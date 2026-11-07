@@ -22,16 +22,15 @@ Challenge: <https://cssbattle.dev/play/QYh1So3F1gjsyf4gTzmp>
 ## Code
 
 ```html
-<img><img><style>&,img{background:#469E6C;>*{margin:125 50;background:#F2F1E0;height:50}img{margin:50 0;padding:25 20;border:solid;border-width:0 0 10 20;+*{margin:-110 240;box-shadow:-5pc -5lh 0-5vw,-50vw -5lh 0-5vw
+<img><style>&{background:#469e6c;>*{margin:125 50;background:#f2f1e0;height:50}img{margin:50 0;padding:30;box-shadow:inset 5vw -11q,85vh -5px 0-5px#469E6C,60vw 0,5ch -5lh 0-5vw,40vw -5lh 0-5vw
 ```
 
 ## Prettified code
 
 ```html
-<img><img>
+<img>
 <style>
-&,
-img {
+& {
   background: #469e6c;
   > * {
     margin: 125 50;
@@ -40,15 +39,13 @@ img {
   }
   img {
     margin: 50 0;
-    padding: 25 20;
-    border: solid;
-    border-width: 0 0 10 20;
-    + * {
-      margin: -110 240;
-      box-shadow:
-        -5pc -5lh 0 -5vw,
-        -50vw -5lh 0 -5vw;
-    }
+    padding: 30;
+    box-shadow:
+      inset 5vw -11Q,
+      85vh -5px 0 -5px #469e6c,
+      60vw 0,
+      5ch -5lh 0 -5vw,
+      40vw -5lh 0 -5vw;
   }
 }
 </style>
