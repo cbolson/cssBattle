@@ -297,7 +297,7 @@ Note - I have not yet complete all the challenges.
 <li><a href="./Daily%20Targets/2026-11-02/">Nov 2, 2026</a> (129 Characters)</li>
 <li><a href="./Daily%20Targets/2026-11-06/">Nov 6, 2026</a> (153 Characters)</li>
 <li><a href="./Daily%20Targets/2026-11-07/">Nov 7, 2026</a> (184 Characters)</li>
-<li><a href="./Daily%20Targets/2026-11-09/">Nov 9, 2026</a> (187 Characters)</li>
+<li><a href="./Daily%20Targets/2026-11-09/">Nov 9, 2026</a> (186 Characters)</li>
 </ul>
 </details>
 </li>
