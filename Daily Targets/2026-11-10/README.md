@@ -26,16 +26,17 @@ Challenge: <https://cssbattle.dev/play/im5bpfWBaCfsHz3ynGXj>
 *{
   margin:195 30 75 140;
   border-radius:9in;
+  color:373737;
   box-shadow: 
-    60px -120px #373737,
-    40px -80px #FFF,
-    20px -40px #373737,
+    63q -30vw,
+    5ch -5pc #FFF,
+    5vw -5ch,
     0 0 0 9in #A98955;
  *{
    margin: -120 0 0 200;
    box-shadow:
-     inset 1in 0 #373737,
-     30px 0 0 40px #A98955
+     inset 1in 0,
+     32q 0 0 5ch #A98955
      ;
      
    
@@ -50,16 +51,17 @@ Challenge: <https://cssbattle.dev/play/im5bpfWBaCfsHz3ynGXj>
 *{
   margin:195 30 75 140;
   border-radius:9in;
+  color:373737;
   box-shadow: 
-    60px -120px #373737,
-    40px -80px #FFF,
-    20px -40px #373737,
+    63q -30vw,
+    5ch -5pc #FFF,
+    5vw -5ch,
     0 0 0 9in #A98955;
  *{
    margin: -120 0 0 200;
    box-shadow:
-     inset 1in 0 #373737,
-     30px 0 0 40px #A98955
+     inset 1in 0,
+     32q 0 0 5ch #A98955
      ;
      
    
