@@ -35,7 +35,7 @@ Challenge: <https://cssbattle.dev/play/im5bpfWBaCfsHz3ynGXj>
    margin: -120 0 0 200;
    box-shadow:
      inset 1in 0 #373737,
-     20px 0 0 30px #A98955
+     30px 0 0 40px #A98955
      ;
      
    
@@ -59,7 +59,7 @@ Challenge: <https://cssbattle.dev/play/im5bpfWBaCfsHz3ynGXj>
    margin: -120 0 0 200;
    box-shadow:
      inset 1in 0 #373737,
-     20px 0 0 30px #A98955
+     30px 0 0 40px #A98955
      ;
      
    
