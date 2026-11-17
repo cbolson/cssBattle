@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/v4vfHaiNnku33Bu4ZxoO>
 ## Code
 
 ```html
-<img><img b><img><style>&{background:#1A4341;margin:97 102;[b]{scale:-1}img{margin:0-15;padding:15;border-radius:9in;border:32q solid;rotate:45deg;border-color:998235#0000#0000 998235
+<img><img b><img><style>&{background:#1A4341;margin:97 102;[b]{scale:-1}img{margin:0-15;padding:15;border-radius:9in;border:32q solid#998235;clip-path:inset(0 0 50%
 ```
 
 ## Prettified code
@@ -40,9 +40,8 @@ Challenge: <https://cssbattle.dev/play/v4vfHaiNnku33Bu4ZxoO>
     margin: 0 -15;
     padding: 15;
     border-radius: 9in;
-    border: 32Q solid;
-    rotate: 45deg;
-    border-color: 998235 transparent transparent 998235;
+    border: 32Q solid #998235;
+    clip-path: inset(0 0 50%);
   }
 }
 </style>
