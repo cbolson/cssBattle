@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/Xq0c8EROGbOq6rA5FlRC>
 ## Code
 
 ```html
-<style>&{background:linear-gradient(#17504D 50%,#998235 0);*{margin:65 140;border-radius:9in 9in 0 0;background:linear-gradient(#0B2429 30px,#0000 0)0 0/100%70px
+<style>&{*{margin:65 140;border-radius:9in 9in 0 0;background:linear-gradient(#0b2429 32q,#0000 0)0 0/1%74q}background:linear-gradient(#17504d 50%,#998235 0
 ```
 
 ## Prettified code
@@ -30,12 +30,12 @@ Challenge: <https://cssbattle.dev/play/Xq0c8EROGbOq6rA5FlRC>
 ```html
 <style>
 & {
-  background: linear-gradient(#17504d 50%, #998235 0);
   * {
     margin: 65 140;
     border-radius: 9in 9in 0 0;
-    background: linear-gradient(#0b2429 30px, transparent 0) 0 0 / 100% 70px;
+    background: linear-gradient(#0b2429 32Q, transparent 0) 0 0 / 1% 74Q;
   }
+  background: linear-gradient(#17504d 50%, #998235 0);
 }
 
 </style>
