@@ -33,7 +33,7 @@ Challenge: <https://cssbattle.dev/play/uzoOpbBnY8iXVAKpjzxS>
       #90D3A6
     ) -10px 24.5px / 70px 70px;
   *{
-    margin: 25 50;
+    margin: 25 50 24;
     background:#90D3A6;
     color:#90D3A6;
     box-shadow:
@@ -60,7 +60,7 @@ Challenge: <https://cssbattle.dev/play/uzoOpbBnY8iXVAKpjzxS>
       #90D3A6
     ) -10px 24.5px / 70px 70px;
   *{
-    margin: 25 50;
+    margin: 25 50 24;
     background:#90D3A6;
     color:#90D3A6;
     box-shadow:
